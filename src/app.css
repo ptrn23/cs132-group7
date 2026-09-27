@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import 'tailwindcss';
+
+/* allow usage of dark class in html; applies classes in dark:* when html class="dark" */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+	/* custom default font */
+	--font-sans: 'Nunito', sans-serif;
+
+	/* custom colors */
+    --color-ac-white: #ffffff;
+    --color-ac-cream: #f7f3e7;
+    --color-ac-dark-brown: #654126;
+    --color-ac-light-pink: #FFD9D9;
+    --color-ac-light-yellow: #FFEEA0;
+    --color-ac-pink: #f48fb1;
+}
+
+@layer base {
+	html {
+		/* set default font */
+		font-family: var(--font-sans);
+	}
+
+	body {
+		/* set default background color */
+		@apply bg-ac-cream;
+	}
+}
