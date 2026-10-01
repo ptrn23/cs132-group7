@@ -12,8 +12,7 @@
     const headers = [
         { label: 'Overview', url: '#overview'},
         { label: 'Objectives', url: '#objectives'},
-        { label: 'Questions', url: '#questions'},
-        { label: 'Hypothesis', url: '#hypothesis'},
+        { label: 'Research Questions', url: '#hypothesis'} ,
         { label: 'Data Collection', url: '#data'},
     ];
 </script>
