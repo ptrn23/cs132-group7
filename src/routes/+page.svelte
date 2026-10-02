@@ -307,5 +307,9 @@
                     </tbody>
                 </table>
             </div>
+
+    <p class="font-semibold"> Preprocessed Datasets </p>
+    <p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/17t6uVtI6CKeNMy7MRdKvYsVFrtNgjwn9CcHiKXYWtBY/edit?usp=drive_link"> Retail Prices Dataset </a></p>
+    <p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/1R6nCpYbEkWRNtuBCi6Wzraem0R9GwkXNetu9Vd-Yr28/edit?usp=drive_link"> CPI Dataset </a> </p>
     </section>
 </div>
