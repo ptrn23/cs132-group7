@@ -1,0 +1,1885 @@
+date,food_type,sub_category,commodity,price
+2020-01-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",35.8
+2020-02-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",35.92
+2020-03-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",36.13
+2020-04-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",36.5
+2020-05-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",36.95
+2020-06-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",37.63
+2020-07-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",37.91
+2020-08-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.09
+2020-09-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",37.97
+2020-10-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38
+2020-11-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",37.88
+2020-12-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",37.91
+2021-01-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.07
+2021-02-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.08
+2021-03-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.1
+2021-04-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.17
+2021-05-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.26
+2021-06-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.3
+2021-07-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.2
+2021-08-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.42
+2021-09-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.37
+2021-10-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.46
+2021-11-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.51
+2021-12-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.46
+2022-01-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.81
+2022-02-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.91
+2022-03-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.86
+2022-04-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.97
+2022-05-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.97
+2022-06-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.97
+2022-07-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.97
+2022-08-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.97
+2022-09-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",38.99
+2022-10-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",39.06
+2022-11-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",39.15
+2022-12-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",39.17
+2023-01-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",39.25
+2023-02-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",39.19
+2023-03-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",39.43
+2023-04-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",39.75
+2023-05-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",39.9
+2023-06-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",40.09
+2023-07-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",40.6
+2023-08-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",42.7
+2023-09-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",43.05
+2023-10-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",42.04
+2023-11-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",42.79
+2023-12-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",43.71
+2024-01-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",44.01
+2024-02-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",44.11
+2024-03-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",44.63
+2024-04-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",45.23
+2024-05-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",46.13
+2024-06-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",46.18
+2024-07-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",45.88
+2024-08-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",45.75
+2024-09-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",45.94
+2024-10-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",45.53
+2024-11-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",45.05
+2024-12-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",44.94
+2025-01-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",44.52
+2025-02-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",43.81
+2025-03-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",42.61
+2025-04-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",41.73
+2025-05-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",41.17
+2025-06-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",40.94
+2025-07-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",40.37
+2025-08-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",39.77
+2025-09-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",39.63
+2025-10-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",39.39
+2025-11-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",39.7
+2025-12-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",40.38
+2026-01-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",41.84
+2026-02-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",43.71
+2026-03-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",45.77
+2026-04-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",46.85
+2026-05-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",46.46
+2026-06-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",46.16
+2026-07-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",46.02
+2026-08-01,Calorie-Dense,Cereals,"RICE, REGULAR-MILLED, 1 KG",46.18
+2020-01-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.48
+2020-02-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.48
+2020-03-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.42
+2020-04-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.73
+2020-05-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.87
+2020-06-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.54
+2020-07-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.5
+2020-08-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.44
+2020-09-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.4
+2020-10-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.09
+2020-11-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.22
+2020-12-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.27
+2021-01-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.33
+2021-02-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.59
+2021-03-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.6
+2021-04-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.64
+2021-05-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.63
+2021-06-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.42
+2021-07-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.41
+2021-08-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",53.31
+2021-09-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.41
+2021-10-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",53.15
+2021-11-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",53.32
+2021-12-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",53.28
+2022-01-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",53.15
+2022-02-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",52.83
+2022-03-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",52.68
+2022-04-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",52.83
+2022-05-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",52.82
+2022-06-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",52.91
+2022-07-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",52.83
+2022-08-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",53.09
+2022-09-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",53.06
+2022-10-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",53.03
+2022-11-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",53.01
+2022-12-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",53.1
+2023-01-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",53.11
+2023-02-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",53.01
+2023-03-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",52.98
+2023-04-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",53.02
+2023-05-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",52.92
+2023-06-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",52.9
+2023-07-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",52.96
+2023-08-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",54.41
+2023-09-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",56.78
+2023-10-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",56.86
+2023-11-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",58.42
+2023-12-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",60.11
+2024-01-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",60.65
+2024-02-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",60.96
+2024-03-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",61
+2024-04-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",61.25
+2024-05-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",61.45
+2024-06-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",61.46
+2024-07-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",61.4
+2024-08-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",60.99
+2024-09-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",60.92
+2024-10-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",60.92
+2024-11-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",60.91
+2024-12-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",60.8
+2025-01-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",60.49
+2025-02-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",59.64
+2025-03-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",58.77
+2025-04-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",57.97
+2025-05-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",57.17
+2025-06-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",57.14
+2025-07-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",56.82
+2025-08-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",56.5
+2025-09-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",56.33
+2025-10-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",55.98
+2025-11-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",56.41
+2025-12-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",57.69
+2026-01-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",58.76
+2026-02-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",59.89
+2026-03-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",61.33
+2026-04-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",61.85
+2026-05-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",61.07
+2026-06-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",60.41
+2026-07-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",60.06
+2026-08-01,Calorie-Dense,Cereals,"RICE, SPECIAL, 1 KG",60.1
+2020-01-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",41.18
+2020-02-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",40.95
+2020-03-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",41.2
+2020-04-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",41.61
+2020-05-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",41.91
+2020-06-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.44
+2020-07-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.68
+2020-08-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.69
+2020-09-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.57
+2020-10-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.49
+2020-11-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.43
+2020-12-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.59
+2021-01-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.55
+2021-02-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.6
+2021-03-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.62
+2021-04-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.76
+2021-05-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.83
+2021-06-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.82
+2021-07-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.79
+2021-08-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.9
+2021-09-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.87
+2021-10-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.96
+2021-11-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.02
+2021-12-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.93
+2022-01-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.95
+2022-02-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.84
+2022-03-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.92
+2022-04-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.03
+2022-05-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.09
+2022-06-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.15
+2022-07-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.32
+2022-08-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.32
+2022-09-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.09
+2022-10-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.14
+2022-11-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.17
+2022-12-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.45
+2023-01-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.25
+2023-02-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",42.98
+2023-03-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.1
+2023-04-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.23
+2023-05-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.21
+2023-06-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.19
+2023-07-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",43.42
+2023-08-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",47.06
+2023-09-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",49.34
+2023-10-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",47.95
+2023-11-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",49.66
+2023-12-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",51.26
+2024-01-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",51.87
+2024-02-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",52.35
+2024-03-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",52.64
+2024-04-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",52.98
+2024-05-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",53.24
+2024-06-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",53.2
+2024-07-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",53.1
+2024-08-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",53.03
+2024-09-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",52.9
+2024-10-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",52.76
+2024-11-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",52.52
+2024-12-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",52.49
+2025-01-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",52.22
+2025-02-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",51.82
+2025-03-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",50.66
+2025-04-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",49.45
+2025-05-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",48.93
+2025-06-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",48.65
+2025-07-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",48.02
+2025-08-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",47.35
+2025-09-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",46.84
+2025-10-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",46.49
+2025-11-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",46.99
+2025-12-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",48.08
+2026-01-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",49.58
+2026-02-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",51.26
+2026-03-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",54.25
+2026-04-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",54.85
+2026-05-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",53.69
+2026-06-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",52.53
+2026-07-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",52.36
+2026-08-01,Calorie-Dense,Cereals,"RICE, WELL-MILLED, 1 KG",52.36
+2020-01-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",51.26
+2020-02-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",51.76
+2020-03-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",49.58
+2020-04-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",50.76
+2020-05-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",48.64
+2020-06-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",49.68
+2020-07-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",48.65
+2020-08-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",48.04
+2020-09-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",48.08
+2020-10-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",49.38
+2020-11-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",52.84
+2020-12-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",62.65
+2021-01-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",72.2
+2021-02-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",55.44
+2021-03-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",48.17
+2021-04-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",47.09
+2021-05-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",45.39
+2021-06-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",45.06
+2021-07-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",46.52
+2021-08-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",48.57
+2021-09-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",48.84
+2021-10-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",56.38
+2021-11-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",54.87
+2021-12-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",53.79
+2022-01-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",52.55
+2022-02-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",54.21
+2022-03-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",54.57
+2022-04-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",52.15
+2022-05-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",50.47
+2022-06-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",52.61
+2022-07-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",51.69
+2022-08-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",54.46
+2022-09-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",54.15
+2022-10-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",58.09
+2022-11-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",63.44
+2022-12-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",65.19
+2023-01-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",66.86
+2023-02-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",64.08
+2023-03-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",64.46
+2023-04-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",62.46
+2023-05-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",60.98
+2023-06-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",58.55
+2023-07-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",57.8
+2023-08-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",59.07
+2023-09-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",62.05
+2023-10-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",66.64
+2023-11-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",65.55
+2023-12-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",66.48
+2024-01-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",66.96
+2024-02-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",64.49
+2024-03-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",65.42
+2024-04-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",64.88
+2024-05-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",63.61
+2024-06-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",64.92
+2024-07-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",69.89
+2024-08-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",69.28
+2024-09-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",69.14
+2024-10-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",74.12
+2024-11-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",80.83
+2024-12-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",81.94
+2025-01-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",80.2
+2025-02-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",74.81
+2025-03-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",73
+2025-04-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",72.63
+2025-05-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",73.28
+2025-06-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",77.04
+2025-07-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",78.58
+2025-08-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",82.38
+2025-09-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",80.12
+2025-10-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",81.68
+2025-11-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",87.88
+2025-12-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",101.32
+2026-01-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",94.44
+2026-02-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",86.35
+2026-03-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",79.55
+2026-04-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",75.93
+2026-05-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",73.74
+2026-06-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",80.82
+2026-07-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",81.66
+2026-08-01,Calorie-Dense,Cereals,"WHOLE CORN ON THE COB, YELLOW, 1 KG",82.91
+2020-01-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",76
+2020-02-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",66.1
+2020-03-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",66.2
+2020-04-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",71.84
+2020-05-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",66.76
+2020-06-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",76.35
+2020-07-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",97.83
+2020-08-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",85.46
+2020-09-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",79.07
+2020-10-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",75.72
+2020-11-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",98.76
+2020-12-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",127.05
+2021-01-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",134.12
+2021-02-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",113.73
+2021-03-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",82.14
+2021-04-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",68.56
+2021-05-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",65.97
+2021-06-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",65.83
+2021-07-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",72.28
+2021-08-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",119.91
+2021-09-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",72.28
+2021-10-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",91.45
+2021-11-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",127.68
+2021-12-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",96.44
+2022-01-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",84.97
+2022-02-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",85.96
+2022-03-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",101.24
+2022-04-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",89.71
+2022-05-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",85.42
+2022-06-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",82.07
+2022-07-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",88
+2022-08-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",110.69
+2022-09-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",139.7
+2022-10-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",136.69
+2022-11-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",129.96
+2022-12-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",112.92
+2023-01-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",91.76
+2023-02-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",79.56
+2023-03-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",75.45
+2023-04-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",74.31
+2023-05-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",76.86
+2023-06-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",85.36
+2023-07-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",157.11
+2023-08-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",170.9
+2023-09-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",161.43
+2023-10-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",153.19
+2023-11-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",144
+2023-12-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",113.33
+2024-01-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",107.17
+2024-02-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",99.93
+2024-03-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",117.35
+2024-04-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",108.3
+2024-05-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",102.09
+2024-06-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",111.04
+2024-07-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",141.8
+2024-08-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",135.09
+2024-09-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",117.51
+2024-10-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",138.93
+2024-11-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",176.4
+2024-12-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",170.36
+2025-01-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",157.89
+2025-02-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",110.42
+2025-03-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",93.61
+2025-04-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",85.29
+2025-05-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",89.4
+2025-06-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",95.51
+2025-07-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",114.48
+2025-08-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",229.14
+2025-09-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",253.54
+2025-10-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",203.81
+2025-11-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",168.14
+2025-12-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",132.62
+2026-01-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",109.92
+2026-02-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",105.93
+2026-03-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",153.33
+2026-04-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",165.63
+2026-05-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",145.58
+2026-06-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",133.94
+2026-07-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",115.1
+2026-08-01,Calorie-Dense,Rootcrops,"CARROT, 1 KG",120.6
+2020-01-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",30.85
+2020-02-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",31.3
+2020-03-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",30.57
+2020-04-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",33.44
+2020-05-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",35.26
+2020-06-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",34.06
+2020-07-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",33.17
+2020-08-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",32.69
+2020-09-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",32.64
+2020-10-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",32.82
+2020-11-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",33.54
+2020-12-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",33.77
+2021-01-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",33.84
+2021-02-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",33.37
+2021-03-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",34.86
+2021-04-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",34.71
+2021-05-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",35.02
+2021-06-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",34.35
+2021-07-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",33.72
+2021-08-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",38.63
+2021-09-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",33.72
+2021-10-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",36.47
+2021-11-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",36.42
+2021-12-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",37.41
+2022-01-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",40.78
+2022-02-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",38.26
+2022-03-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",38.91
+2022-04-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",40.45
+2022-05-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",40.05
+2022-06-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",40.31
+2022-07-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",40.75
+2022-08-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",41.24
+2022-09-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",42.2
+2022-10-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",42.15
+2022-11-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",40.86
+2022-12-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",40.58
+2023-01-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",42.87
+2023-02-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",42.34
+2023-03-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",44.24
+2023-04-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",48.11
+2023-05-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",51.42
+2023-06-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",56.55
+2023-07-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",58
+2023-08-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",59.88
+2023-09-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",60.58
+2023-10-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",59.14
+2023-11-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",58.66
+2023-12-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",56.4
+2024-01-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",55.58
+2024-02-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",54.49
+2024-03-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",54.4
+2024-04-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",53.74
+2024-05-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",54.31
+2024-06-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",54.48
+2024-07-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",54.69
+2024-08-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",56.93
+2024-09-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",57.16
+2024-10-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",56.13
+2024-11-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",57.17
+2024-12-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",57.39
+2025-01-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",55.02
+2025-02-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",54.86
+2025-03-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",54.89
+2025-04-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",54.99
+2025-05-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",54.77
+2025-06-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",55.21
+2025-07-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",55.93
+2025-08-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",56.04
+2025-09-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",55.32
+2025-10-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",56.03
+2025-11-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",56.32
+2025-12-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",56.52
+2026-01-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",56.87
+2026-02-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",57.26
+2026-03-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",57.19
+2026-04-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",55.94
+2026-05-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",58.01
+2026-06-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",58.79
+2026-07-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",58.54
+2026-08-01,Calorie-Dense,Rootcrops,"CASSAVA (KAMOTENG KAHOY), 1 KG",60.1
+2020-01-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",83.16
+2020-02-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",85.78
+2020-03-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",90.15
+2020-04-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",95.76
+2020-05-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",90.1
+2020-06-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",84.25
+2020-07-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",75.6
+2020-08-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",73.34
+2020-09-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",71.52
+2020-10-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",70.25
+2020-11-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",76.05
+2020-12-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",101.52
+2021-01-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",121.9
+2021-02-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",92.24
+2021-03-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",68.45
+2021-04-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",59.66
+2021-05-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",56.68
+2021-06-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",55.9
+2021-07-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",58.3
+2021-08-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",70.82
+2021-09-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",58.3
+2021-10-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",85.1
+2021-11-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",84.46
+2021-12-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",82.02
+2022-01-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",80.79
+2022-02-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",72.64
+2022-03-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",66.23
+2022-04-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",67.71
+2022-05-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",73.73
+2022-06-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",76.7
+2022-07-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",80.49
+2022-08-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",79.11
+2022-09-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",78.47
+2022-10-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",89.71
+2022-11-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",118.86
+2022-12-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",143.93
+2023-01-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",140.14
+2023-02-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",126.39
+2023-03-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",110.64
+2023-04-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",106.13
+2023-05-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",98.56
+2023-06-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",101.73
+2023-07-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",113.96
+2023-08-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",136.93
+2023-09-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",160.99
+2023-10-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",195.49
+2023-11-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",167.99
+2023-12-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",153.03
+2024-01-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",130.54
+2024-02-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",119.15
+2024-03-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",123.13
+2024-04-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",114.34
+2024-05-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",109.84
+2024-06-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",137.65
+2024-07-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",117.49
+2024-08-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",102.81
+2024-09-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",97.8
+2024-10-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",96.81
+2024-11-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",113.85
+2024-12-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",150.78
+2025-01-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",166.29
+2025-02-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",137.09
+2025-03-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",112.86
+2025-04-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",95.8
+2025-05-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",89
+2025-06-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",87.74
+2025-07-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",87.51
+2025-08-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",100.48
+2025-09-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",110.26
+2025-10-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",132.3
+2025-11-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",148.98
+2025-12-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",154.08
+2026-01-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",152.09
+2026-02-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",123.82
+2026-03-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",106.59
+2026-04-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",102.44
+2026-05-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",99.84
+2026-06-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",120.42
+2026-07-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",132.37
+2026-08-01,Calorie-Dense,Rootcrops,"POTATO, 1 KG",140.31
+2020-01-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",71.84
+2020-02-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",73.61
+2020-03-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",75.21
+2020-04-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",75.27
+2020-05-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",77.71
+2020-06-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",83.11
+2020-07-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",80.2
+2020-08-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",80.45
+2020-09-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",80.45
+2020-10-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",79.19
+2020-11-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",79.9
+2020-12-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",84.39
+2021-01-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",91.99
+2021-02-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",93.22
+2021-03-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",90.34
+2021-04-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",90.23
+2021-05-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",81.6
+2021-06-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",78.11
+2021-07-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",79.02
+2021-08-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",117.73
+2021-09-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",79.02
+2021-10-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",98.53
+2021-11-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",68.28
+2021-12-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",68.13
+2022-01-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",75.2
+2022-02-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",68.95
+2022-03-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",70.63
+2022-04-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",73.82
+2022-05-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",74.03
+2022-06-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",74.18
+2022-07-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",76.05
+2022-08-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",72.85
+2022-09-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",74.49
+2022-10-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",78.84
+2022-11-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",104.59
+2022-12-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",111.7
+2023-01-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",102.81
+2023-02-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",86.66
+2023-03-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",96.69
+2023-04-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",89.25
+2023-05-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",98.17
+2023-06-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",107.06
+2023-07-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",99.06
+2023-08-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",117.76
+2023-09-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",111.24
+2023-10-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",114.38
+2023-11-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",93.69
+2023-12-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",81.94
+2024-01-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",85.36
+2024-02-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",98.83
+2024-03-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",95.43
+2024-04-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",89.2
+2024-05-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",107.79
+2024-06-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",121.84
+2024-07-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",100.45
+2024-08-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",109.37
+2024-09-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",114.23
+2024-10-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",132.91
+2024-11-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",119.21
+2024-12-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",111.42
+2025-01-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",95.08
+2025-02-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",87.33
+2025-03-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",88.12
+2025-04-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",98.52
+2025-05-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",108.03
+2025-06-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",112.76
+2025-07-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",113.41
+2025-08-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",168.47
+2025-09-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",127.18
+2025-10-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",118.48
+2025-11-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",102.52
+2025-12-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",123.09
+2026-01-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",123
+2026-02-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",110.72
+2026-03-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",97.9
+2026-04-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",99.11
+2026-05-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",106.21
+2026-06-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",148.51
+2026-07-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",111.91
+2026-08-01,Calorie-Dense,Rootcrops,"RADDISH (LABANOS), 1 KG",131.54
+2020-01-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",44.52
+2020-02-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",45.17
+2020-03-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",44.12
+2020-04-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",48.26
+2020-05-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",50.89
+2020-06-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",49.16
+2020-07-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",47.87
+2020-08-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",47.17
+2020-09-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",47.1
+2020-10-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",47.36
+2020-11-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",48.4
+2020-12-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",48.74
+2021-01-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",48.84
+2021-02-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",48.17
+2021-03-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",50.32
+2021-04-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",50.11
+2021-05-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",50.56
+2021-06-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",49.59
+2021-07-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",48.68
+2021-08-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",57.35
+2021-09-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",48.68
+2021-10-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",58.28
+2021-11-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",59.48
+2021-12-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",60.31
+2022-01-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",66.35
+2022-02-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",62.4
+2022-03-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",59.34
+2022-04-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",57.95
+2022-05-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",58.38
+2022-06-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",58.93
+2022-07-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",58.9
+2022-08-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",60.02
+2022-09-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",65.85
+2022-10-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",68.59
+2022-11-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",67.51
+2022-12-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",68.01
+2023-01-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",68.81
+2023-02-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",70.47
+2023-03-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",67.86
+2023-04-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",71.28
+2023-05-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",74.04
+2023-06-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",76.46
+2023-07-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",81.13
+2023-08-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",87.41
+2023-09-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",85.5
+2023-10-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",84.5
+2023-11-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",82.93
+2023-12-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",82.93
+2024-01-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",82.42
+2024-02-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",78.93
+2024-03-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",73.89
+2024-04-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",73.8
+2024-05-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",75.15
+2024-06-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",76.01
+2024-07-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",77.87
+2024-08-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",92.01
+2024-09-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",94.39
+2024-10-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",90.67
+2024-11-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",86.26
+2024-12-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",83.32
+2025-01-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",79.66
+2025-02-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",79.46
+2025-03-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",77.52
+2025-04-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",74.65
+2025-05-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",73.76
+2025-06-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",72.5
+2025-07-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",76.32
+2025-08-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",86.07
+2025-09-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",87.42
+2025-10-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",88.85
+2025-11-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",92.55
+2025-12-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",93.48
+2026-01-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",92.4
+2026-02-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",89.71
+2026-03-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",85.83
+2026-04-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",82.54
+2026-05-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",81.96
+2026-06-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",87.71
+2026-07-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",92.35
+2026-08-01,Calorie-Dense,Rootcrops,"SWEET POTATO (CAMOTE), 1 KG",97.89
+2020-01-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",82.64
+2020-02-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",79.22
+2020-03-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",85.07
+2020-04-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",83.66
+2020-05-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",84.06
+2020-06-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",79.87
+2020-07-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",65.33
+2020-08-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",67.14
+2020-09-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",70.31
+2020-10-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",84.22
+2020-11-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",181.33
+2020-12-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",153.27
+2021-01-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",144.67
+2021-02-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",95.5
+2021-03-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",72.93
+2021-04-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",67.28
+2021-05-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",61.42
+2021-06-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",75.4
+2021-07-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",82.06
+2021-08-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",108.06
+2021-09-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",82.06
+2021-10-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",93.14
+2021-11-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",71.64
+2021-12-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",87.03
+2022-01-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",97.8
+2022-02-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",101.77
+2022-03-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",103.08
+2022-04-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",97.52
+2022-05-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",96.25
+2022-06-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",117.28
+2022-07-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",87.98
+2022-08-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",82.49
+2022-09-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",89.55
+2022-10-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",125.46
+2022-11-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",138.02
+2022-12-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",111.18
+2023-01-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",133.3
+2023-02-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",146.21
+2023-03-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",131.87
+2023-04-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",104.51
+2023-05-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",92
+2023-06-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",86.72
+2023-07-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",91.97
+2023-08-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",141.15
+2023-09-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",139.35
+2023-10-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",109.38
+2023-11-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",96.09
+2023-12-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",105.12
+2024-01-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",120.48
+2024-02-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",112.9
+2024-03-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",125.54
+2024-04-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",120.52
+2024-05-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",132.69
+2024-06-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",140.8
+2024-07-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",112.52
+2024-08-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",107.03
+2024-09-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",123.32
+2024-10-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",125.39
+2024-11-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",158.37
+2024-12-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",143.36
+2025-01-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",159.05
+2025-02-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",126.88
+2025-03-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",122.05
+2025-04-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",108.01
+2025-05-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",109.48
+2025-06-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",112.22
+2025-07-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",141.15
+2025-08-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",169.89
+2025-09-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",133.18
+2025-10-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",138.86
+2025-11-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",165.82
+2025-12-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",172
+2026-01-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",154.78
+2026-02-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",149.94
+2026-03-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",132.11
+2026-04-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",124.13
+2026-05-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",125.28
+2026-06-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",135.08
+2026-07-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",114.56
+2026-08-01,Nutrient-Dense,Fruit Vegetables,"BITTER GOURD (AMPALAYA), FRUIT, 1 KG",142.75
+2020-01-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",35.98
+2020-02-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",34.8
+2020-03-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",38.31
+2020-04-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",60.14
+2020-05-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",53.32
+2020-06-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",44.31
+2020-07-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",33.57
+2020-08-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",32.44
+2020-09-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",31.86
+2020-10-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",32.13
+2020-11-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",46.5
+2020-12-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",44.05
+2021-01-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",36.59
+2021-02-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",34.7
+2021-03-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",29.79
+2021-04-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",30.43
+2021-05-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",32.5
+2021-06-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",39.14
+2021-07-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",44.55
+2021-08-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",71.47
+2021-09-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",44.55
+2021-10-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",44.99
+2021-11-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",42.4
+2021-12-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",43.54
+2022-01-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",50.75
+2022-02-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",40.41
+2022-03-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",36.34
+2022-04-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",35.53
+2022-05-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",35.54
+2022-06-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",35.69
+2022-07-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",36.04
+2022-08-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",38.04
+2022-09-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",39.95
+2022-10-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",39.88
+2022-11-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",51.43
+2022-12-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",51.69
+2023-01-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",51.65
+2023-02-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",53.48
+2023-03-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",47.47
+2023-04-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",46.01
+2023-05-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",57.23
+2023-06-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",55.9
+2023-07-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",55.7
+2023-08-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",66.93
+2023-09-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",83.55
+2023-10-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",63.52
+2023-11-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",47.55
+2023-12-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",44.24
+2024-01-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",53.79
+2024-02-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",54.06
+2024-03-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",45.02
+2024-04-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",50.96
+2024-05-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",63.88
+2024-06-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",72.68
+2024-07-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",51.65
+2024-08-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",53.9
+2024-09-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",50.31
+2024-10-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",56.43
+2024-11-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",71.63
+2024-12-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",75.92
+2025-01-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",53.35
+2025-02-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",46.39
+2025-03-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",41.83
+2025-04-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",41.6
+2025-05-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",48.46
+2025-06-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",51.19
+2025-07-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",51.09
+2025-08-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",93.38
+2025-09-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",72.05
+2025-10-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",68.01
+2025-11-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",78.56
+2025-12-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",112
+2026-01-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",66.4
+2026-02-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",58.81
+2026-03-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",56.18
+2026-04-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",59.7
+2026-05-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",68.74
+2026-06-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",82.1
+2026-07-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",65.07
+2026-08-01,Nutrient-Dense,Fruit Vegetables,"CHAYOTE, 1 KG",67.39
+2020-01-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",38.2
+2020-02-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",38.59
+2020-03-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",41.18
+2020-04-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",48.96
+2020-05-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",47.84
+2020-06-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",42.27
+2020-07-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",36.64
+2020-08-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",36.32
+2020-09-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",35.62
+2020-10-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",34.7
+2020-11-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",46.35
+2020-12-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",57.65
+2021-01-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",53.42
+2021-02-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",42.53
+2021-03-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",36.94
+2021-04-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",34.02
+2021-05-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",34.68
+2021-06-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",39.22
+2021-07-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",43.13
+2021-08-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",53.62
+2021-09-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",43.13
+2021-10-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",41.51
+2021-11-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",35.25
+2021-12-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",34.43
+2022-01-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",36.81
+2022-02-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",37.08
+2022-03-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",36.93
+2022-04-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",36.05
+2022-05-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",34.82
+2022-06-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",39.28
+2022-07-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",40.62
+2022-08-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",38.88
+2022-09-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",38.47
+2022-10-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",44.28
+2022-11-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",48.86
+2022-12-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",44.94
+2023-01-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",46.41
+2023-02-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",47.67
+2023-03-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",44.69
+2023-04-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",42.48
+2023-05-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",41.25
+2023-06-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",41.26
+2023-07-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",46.98
+2023-08-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",58.47
+2023-09-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",56.48
+2023-10-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",46.8
+2023-11-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",42.57
+2023-12-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",40.42
+2024-01-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",42.85
+2024-02-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",44.32
+2024-03-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",46.58
+2024-04-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",45.68
+2024-05-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",44.09
+2024-06-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",45.09
+2024-07-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",45.75
+2024-08-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",45.4
+2024-09-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",45.66
+2024-10-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",46.57
+2024-11-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",51.28
+2024-12-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",55.01
+2025-01-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",50.54
+2025-02-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",46.88
+2025-03-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",45.61
+2025-04-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",44.16
+2025-05-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",43.81
+2025-06-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",44.51
+2025-07-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",47.92
+2025-08-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",62.1
+2025-09-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",53.52
+2025-10-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",52.22
+2025-11-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",56.65
+2025-12-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",61.66
+2026-01-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",51.76
+2026-02-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",48.92
+2026-03-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",48.54
+2026-04-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",51.92
+2026-05-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",49.14
+2026-06-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",52.85
+2026-07-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",51.56
+2026-08-01,Nutrient-Dense,Fruit Vegetables,"COMMON GOURD (UPO), 1 KG",54.58
+2020-01-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",73.39
+2020-02-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",68.29
+2020-03-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",66.36
+2020-04-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",66.28
+2020-05-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",69.25
+2020-06-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",76.47
+2020-07-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",72.89
+2020-08-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",70.63
+2020-09-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",70.55
+2020-10-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",68.59
+2020-11-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",67.87
+2020-12-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",79.27
+2021-01-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",89.26
+2021-02-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",80.09
+2021-03-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",70.8
+2021-04-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",70.61
+2021-05-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",66.67
+2021-06-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",70.9
+2021-07-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",76.15
+2021-08-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",74.9
+2021-09-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",76.15
+2021-10-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",79.01
+2021-11-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",75.3
+2021-12-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",68.92
+2022-01-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",71.54
+2022-02-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",73.47
+2022-03-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",85.98
+2022-04-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",72.69
+2022-05-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",64.06
+2022-06-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",72.52
+2022-07-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",73.25
+2022-08-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",64.02
+2022-09-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",83.2
+2022-10-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",108.61
+2022-11-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",115.1
+2022-12-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",94.33
+2023-01-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",113.83
+2023-02-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",111.58
+2023-03-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",84.93
+2023-04-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",70.7
+2023-05-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",88.97
+2023-06-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",94.8
+2023-07-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",81.68
+2023-08-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",98.75
+2023-09-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",101.76
+2023-10-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",77.08
+2023-11-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",81.27
+2023-12-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",99.54
+2024-01-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",88.03
+2024-02-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",87.37
+2024-03-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",103.77
+2024-04-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",104.49
+2024-05-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",99.56
+2024-06-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",104.75
+2024-07-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",108.63
+2024-08-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",87.85
+2024-09-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",100.94
+2024-10-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",113.87
+2024-11-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",119.66
+2024-12-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",130.07
+2025-01-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",97.52
+2025-02-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",79.51
+2025-03-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",87
+2025-04-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",83.21
+2025-05-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",84.81
+2025-06-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",92.98
+2025-07-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",102.08
+2025-08-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",109.17
+2025-09-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",101.04
+2025-10-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",99.08
+2025-11-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",116.67
+2025-12-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",141.8
+2026-01-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",102.11
+2026-02-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",101.93
+2026-03-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",111.98
+2026-04-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",111.15
+2026-05-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",109.73
+2026-06-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",118.09
+2026-07-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",97.32
+2026-08-01,Nutrient-Dense,Fruit Vegetables,"CUCUMBER (PIPINO), 1 KG",107.87
+2020-01-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",76.83
+2020-02-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",70.08
+2020-03-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",72.46
+2020-04-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",74.15
+2020-05-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",62.65
+2020-06-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",53.04
+2020-07-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",53.42
+2020-08-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",49.8
+2020-09-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",45.78
+2020-10-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",67.1
+2020-11-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",130.43
+2020-12-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",107.64
+2021-01-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",145.03
+2021-02-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",94.43
+2021-03-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",70.73
+2021-04-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",66.46
+2021-05-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",57.57
+2021-06-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",54.46
+2021-07-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",62.01
+2021-08-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",97.03
+2021-09-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",62.01
+2021-10-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",82.16
+2021-11-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",80.44
+2021-12-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",91.44
+2022-01-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",82.58
+2022-02-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",68.14
+2022-03-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",69.09
+2022-04-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",67.77
+2022-05-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",71.44
+2022-06-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",95.08
+2022-07-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",85.79
+2022-08-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",81.66
+2022-09-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",83.32
+2022-10-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",103.06
+2022-11-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",134.72
+2022-12-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",106.95
+2023-01-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",137.69
+2023-02-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",107.11
+2023-03-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",83.57
+2023-04-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",78.16
+2023-05-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",81.55
+2023-06-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",81.12
+2023-07-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",88.35
+2023-08-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",121.61
+2023-09-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",113.41
+2023-10-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",95.84
+2023-11-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",105.87
+2023-12-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",102.78
+2024-01-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",113.36
+2024-02-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",85.67
+2024-03-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",86.18
+2024-04-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",88.76
+2024-05-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",91.91
+2024-06-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",96.03
+2024-07-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",103.84
+2024-08-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",120.69
+2024-09-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",116.09
+2024-10-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",112.59
+2024-11-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",162.03
+2024-12-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",136.79
+2025-01-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",160.16
+2025-02-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",103.27
+2025-03-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",108.18
+2025-04-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",89.56
+2025-05-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",94.18
+2025-06-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",99.78
+2025-07-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",125.72
+2025-08-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",151.54
+2025-09-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",104.24
+2025-10-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",128.71
+2025-11-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",154.4
+2025-12-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",156.76
+2026-01-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",127.2
+2026-02-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",93.74
+2026-03-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",86.48
+2026-04-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",81.07
+2026-05-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",87
+2026-06-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",95.8
+2026-07-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",103.39
+2026-08-01,Nutrient-Dense,Fruit Vegetables,"EGGPLANT, LONG, PURPLE, 1 KG",149.81
+2020-01-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",66.51
+2020-02-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",66.96
+2020-03-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",66.77
+2020-04-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",69.21
+2020-05-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",70.3
+2020-06-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",67.1
+2020-07-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",61.72
+2020-08-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",62.1
+2020-09-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",60.51
+2020-10-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",59.05
+2020-11-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",81.57
+2020-12-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",95.97
+2021-01-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",96.36
+2021-02-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",80.31
+2021-03-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",67.65
+2021-04-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",61.5
+2021-05-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",59.43
+2021-06-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",67.38
+2021-07-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",69.55
+2021-08-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",80.92
+2021-09-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",69.55
+2021-10-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",67.44
+2021-11-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",61.03
+2021-12-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",65.39
+2022-01-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",67.44
+2022-02-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",68.73
+2022-03-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",73.65
+2022-04-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",70.81
+2022-05-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",63.3
+2022-06-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",66.28
+2022-07-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",70.03
+2022-08-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",69.45
+2022-09-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",70.12
+2022-10-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",80.17
+2022-11-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",91.91
+2022-12-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",78.18
+2023-01-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",86.96
+2023-02-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",87.97
+2023-03-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",86.41
+2023-04-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",81.49
+2023-05-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",80.98
+2023-06-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",80.64
+2023-07-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",80.45
+2023-08-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",96.3
+2023-09-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",82.98
+2023-10-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",71.74
+2023-11-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",69.61
+2023-12-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",76.54
+2024-01-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",79.76
+2024-02-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",82.3
+2024-03-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",85.26
+2024-04-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",83.57
+2024-05-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",80.09
+2024-06-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",85.79
+2024-07-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",80.52
+2024-08-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",86.78
+2024-09-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",87.72
+2024-10-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",83.73
+2024-11-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",95
+2024-12-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",100.72
+2025-01-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",105.23
+2025-02-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",97.12
+2025-03-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",100.26
+2025-04-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",91.35
+2025-05-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",87.56
+2025-06-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",86.39
+2025-07-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",91.33
+2025-08-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",112.73
+2025-09-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",99.45
+2025-10-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",98.44
+2025-11-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",110.39
+2025-12-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",109.32
+2026-01-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",105.15
+2026-02-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",107.03
+2026-03-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",106.42
+2026-04-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",104.3
+2026-05-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",107.2
+2026-06-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",111.34
+2026-07-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",105.29
+2026-08-01,Nutrient-Dense,Fruit Vegetables,"PATOLA, 1 KG",120.79
+2023-01-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",21.86
+2023-02-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",62.76
+2023-03-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",55.33
+2023-04-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",50.73
+2023-05-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",46.98
+2023-06-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",45.16
+2023-07-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",45.1
+2023-08-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",47.66
+2023-09-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",52.92
+2023-10-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",60.21
+2023-11-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",58.91
+2023-12-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",56.94
+2024-01-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",51.43
+2024-02-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",50.38
+2024-03-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",49.41
+2024-04-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",50.1
+2024-05-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",52.14
+2024-06-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",63.15
+2024-07-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",63.65
+2024-08-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",61.19
+2024-09-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",53.07
+2024-10-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",49.1
+2024-11-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",50.66
+2024-12-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",53.08
+2025-01-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",66.4
+2025-02-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",59.65
+2025-03-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",51.04
+2025-04-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",48.09
+2025-05-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",46.53
+2025-06-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",46.09
+2025-07-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",49.29
+2025-08-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",84.81
+2025-09-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",84.32
+2025-10-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",70.94
+2025-11-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",62.24
+2025-12-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",58.86
+2026-01-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",61.6
+2026-02-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",63.49
+2026-03-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",73.79
+2026-04-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",71.24
+2026-05-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",65.54
+2026-06-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",66.67
+2026-07-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",67.54
+2026-08-01,Nutrient-Dense,Fruit Vegetables,"SQUASH, 1 KG",66.08
+2020-01-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",61.93
+2020-02-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",55.57
+2020-03-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",51.35
+2020-04-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",59.56
+2020-05-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",61.62
+2020-06-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",45.35
+2020-07-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",51.04
+2020-08-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",76.27
+2020-09-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",80.51
+2020-10-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",106.92
+2020-11-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",151.5
+2020-12-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",146.56
+2021-01-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",117.53
+2021-02-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",62.32
+2021-03-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",38.14
+2021-04-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",35.99
+2021-05-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",36.53
+2021-06-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",59.89
+2021-07-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",91.98
+2021-08-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",91.18
+2021-09-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",91.98
+2021-10-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",59.21
+2021-11-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",57.49
+2021-12-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",56.61
+2022-01-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",62.05
+2022-02-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",54.38
+2022-03-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",66.83
+2022-04-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",112.43
+2022-05-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",99.06
+2022-06-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",70.12
+2022-07-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",55.26
+2022-08-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",60.59
+2022-09-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",80.2
+2022-10-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",107.67
+2022-11-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",112.07
+2022-12-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",100.21
+2023-01-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",78.92
+2023-02-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",52.65
+2023-03-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",51.46
+2023-04-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",46.02
+2023-05-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",45.45
+2023-06-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",53.9
+2023-07-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",75.48
+2023-08-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",120.59
+2023-09-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",152.63
+2023-10-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",121.85
+2023-11-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",102.64
+2023-12-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",64.57
+2024-01-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",85.55
+2024-02-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",109.89
+2024-03-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",73.64
+2024-04-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",65.34
+2024-05-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",68.14
+2024-06-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",85.14
+2024-07-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",169.8
+2024-08-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",113.99
+2024-09-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",86.66
+2024-10-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",107.73
+2024-11-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",171.65
+2024-12-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",213.45
+2025-01-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",170.39
+2025-02-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",62.62
+2025-03-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",45.1
+2025-04-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",57.34
+2025-05-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",71.25
+2025-06-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",69.31
+2025-07-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",68.47
+2025-08-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",84.94
+2025-09-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",132.87
+2025-10-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",135.57
+2025-11-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",129.88
+2025-12-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",152.08
+2026-01-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",146.01
+2026-02-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",74.08
+2026-03-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",59.98
+2026-04-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",62.11
+2026-05-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",64.26
+2026-06-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",73.03
+2026-07-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",113.96
+2026-08-01,Nutrient-Dense,Fruit Vegetables,"TOMATO, 1 KG",113.22
+2020-01-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",58.97
+2020-02-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",58
+2020-03-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",58.77
+2020-04-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",57.41
+2020-05-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",53.72
+2020-06-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",54.34
+2020-07-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",51.98
+2020-08-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",48.86
+2020-09-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",48.88
+2020-10-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",50.31
+2020-11-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",62.26
+2020-12-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",66.43
+2021-01-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",68.59
+2021-02-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",70.48
+2021-03-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",64.19
+2021-04-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",60.04
+2021-05-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",59.54
+2021-06-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",58.13
+2021-07-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",59.32
+2021-08-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",61.06
+2021-09-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",59.32
+2021-10-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",55.28
+2021-11-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",52.86
+2021-12-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",54.99
+2022-01-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",55.86
+2022-02-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",55.82
+2022-03-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",58.24
+2022-04-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",57.86
+2022-05-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",57.45
+2022-06-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",59.5
+2022-07-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",60.58
+2022-08-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",61.44
+2022-09-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",62.03
+2022-10-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",66.55
+2022-11-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",67.32
+2022-12-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",66.23
+2023-01-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",71.14
+2023-02-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",70.51
+2023-03-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",68.99
+2023-04-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",65.81
+2023-05-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",64.22
+2023-06-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",65.93
+2023-07-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",66.83
+2023-08-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",75.52
+2023-09-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",75.15
+2023-10-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",73.62
+2023-11-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",71.73
+2023-12-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",71.46
+2024-01-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",72.87
+2024-02-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",74.47
+2024-03-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",77.97
+2024-04-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",77.86
+2024-05-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",75.75
+2024-06-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",75.92
+2024-07-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",72.72
+2024-08-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",77.35
+2024-09-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",79.62
+2024-10-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",78.75
+2024-11-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",81.58
+2024-12-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",80.46
+2025-01-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",82.53
+2025-02-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",80.68
+2025-03-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",80.78
+2025-04-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",79.58
+2025-05-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",77.67
+2025-06-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",77.64
+2025-07-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",79.33
+2025-08-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",93.06
+2025-09-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",87
+2025-10-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",92.53
+2025-11-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",98.33
+2025-12-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",98.18
+2026-01-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",94.53
+2026-02-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",95.51
+2026-03-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",95.09
+2026-04-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",91.01
+2026-05-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",89.6
+2026-06-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",90.31
+2026-07-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",87.58
+2026-08-01,Nutrient-Dense,Leafy Vegetables,"ALUGBATI, 1 KG",95.81
+2020-01-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",63.14
+2020-02-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",61.13
+2020-03-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",65.24
+2020-04-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",80.47
+2020-05-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",104.96
+2020-06-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",89.28
+2020-07-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",72.84
+2020-08-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",65.48
+2020-09-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",60.31
+2020-10-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",58.4
+2020-11-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",106.95
+2020-12-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",164.76
+2021-01-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",188.83
+2021-02-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",136.62
+2021-03-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",75.69
+2021-04-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",65.82
+2021-05-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",60.45
+2021-06-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",70.34
+2021-07-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",91.97
+2021-08-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",167.96
+2021-09-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",91.97
+2021-10-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",108.75
+2021-11-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",107.95
+2021-12-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",79.93
+2022-01-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",71.21
+2022-02-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",53.81
+2022-03-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",55.2
+2022-04-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",66.51
+2022-05-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",76.05
+2022-06-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",68.53
+2022-07-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",64.77
+2022-08-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",64.24
+2022-09-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",76.12
+2022-10-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",87.78
+2022-11-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",110.25
+2022-12-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",129.94
+2023-01-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",97.52
+2023-02-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",82.91
+2023-03-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",72.56
+2023-04-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",71.45
+2023-05-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",71.79
+2023-06-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",84.5
+2023-07-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",129.95
+2023-08-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",141.89
+2023-09-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",141.91
+2023-10-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",161.5
+2023-11-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",110.51
+2023-12-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",72.56
+2024-01-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",62.65
+2024-02-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",64.4
+2024-03-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",66.27
+2024-04-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",67.87
+2024-05-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",69.2
+2024-06-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",76.15
+2024-07-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",74.72
+2024-08-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",65.54
+2024-09-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",69.26
+2024-10-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",96.32
+2024-11-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",122.12
+2024-12-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",117.87
+2025-01-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",88.92
+2025-02-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",83.53
+2025-03-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",75.79
+2025-04-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",97.98
+2025-05-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",106.38
+2025-06-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",90.87
+2025-07-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",87.27
+2025-08-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",157.79
+2025-09-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",102.93
+2025-10-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",98.48
+2025-11-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",92.38
+2025-12-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",94.33
+2026-01-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",94.85
+2026-02-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",85.89
+2026-03-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",72.56
+2026-04-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",67.88
+2026-05-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",64.31
+2026-06-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",81.32
+2026-07-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",90.95
+2026-08-01,Nutrient-Dense,Leafy Vegetables,"CABBAGE, 1 KG",105.29
+2020-01-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",246.77
+2020-02-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",244.31
+2020-03-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",237.56
+2020-04-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",237.77
+2020-05-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",235.22
+2020-06-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",236.23
+2020-07-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",242.29
+2020-08-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",239.59
+2020-09-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",244.17
+2020-10-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",238.24
+2020-11-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",242.98
+2020-12-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",255.58
+2021-01-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",263.94
+2021-02-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",262.02
+2021-03-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",257.32
+2021-04-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",248.65
+2021-05-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",247.64
+2021-06-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",248.27
+2021-07-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",247.64
+2021-08-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",234.97
+2021-09-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",247.64
+2021-10-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",244.31
+2021-11-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",245.47
+2021-12-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",248.64
+2022-01-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",274.48
+2022-02-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",278.55
+2022-03-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",278.59
+2022-04-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",275.11
+2022-05-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",278.25
+2022-06-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",281.36
+2022-07-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",280.47
+2022-08-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",283.01
+2022-09-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",280.03
+2022-10-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",293.14
+2022-11-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",299.59
+2022-12-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",298.09
+2023-01-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",309.08
+2023-02-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",312.68
+2023-03-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",294.95
+2023-04-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",289.01
+2023-05-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",290.85
+2023-06-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",263.28
+2023-07-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",263.81
+2023-08-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",267.51
+2023-09-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",268.55
+2023-10-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",267.13
+2023-11-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",269.59
+2023-12-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",270.98
+2024-01-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",270.57
+2024-02-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",271.03
+2024-03-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",269.91
+2024-04-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",268.39
+2024-05-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",267.28
+2024-06-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",267.14
+2024-07-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",269.39
+2024-08-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",274.91
+2024-09-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",272.65
+2024-10-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",277.04
+2024-11-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",278.89
+2024-12-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",284.04
+2025-01-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",300.91
+2025-02-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",303.32
+2025-03-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",296.42
+2025-04-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",295.04
+2025-05-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",287.6
+2025-06-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",287.16
+2025-07-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",291.45
+2025-08-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",293.48
+2025-09-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",295.05
+2025-10-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",295.34
+2025-11-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",295.29
+2025-12-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",297.38
+2026-01-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",289.12
+2026-02-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",287.22
+2026-03-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",284.56
+2026-04-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",285.27
+2026-05-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",286.7
+2026-06-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",297.06
+2026-07-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",308.54
+2026-08-01,Nutrient-Dense,Leafy Vegetables,"GABI LEAVES, 1 KG",318.29
+2020-01-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",66.35
+2020-02-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",65.92
+2020-03-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",66.63
+2020-04-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",65.49
+2020-05-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",59.09
+2020-06-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",58.58
+2020-07-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",55.75
+2020-08-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",54.82
+2020-09-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",55
+2020-10-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",55.24
+2020-11-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",74.68
+2020-12-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",88.14
+2021-01-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",95.71
+2021-02-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",91.5
+2021-03-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",80.27
+2021-04-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",75.46
+2021-05-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",71
+2021-06-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",64.46
+2021-07-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",64.37
+2021-08-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",62.22
+2021-09-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",64.37
+2021-10-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",53.95
+2021-11-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",55.86
+2021-12-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",56.35
+2022-01-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",57.19
+2022-02-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",55.02
+2022-03-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",54.17
+2022-04-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",52.34
+2022-05-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",51.97
+2022-06-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",53.75
+2022-07-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",53.33
+2022-08-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",54.84
+2022-09-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",55.82
+2022-10-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",56.39
+2022-11-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",61.37
+2022-12-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",64.15
+2023-01-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",74.43
+2023-02-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",67.3
+2023-03-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",63
+2023-04-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",58.74
+2023-05-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",59.01
+2023-06-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",61.44
+2023-07-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",59.59
+2023-08-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",62.69
+2023-09-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",59.92
+2023-10-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",59.39
+2023-11-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",56.62
+2023-12-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",60.89
+2024-01-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",62.51
+2024-02-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",64.36
+2024-03-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",63.4
+2024-04-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",62.61
+2024-05-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",63.09
+2024-06-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",65.35
+2024-07-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",62.63
+2024-08-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",63.5
+2024-09-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",65.73
+2024-10-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",64.64
+2024-11-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",67.02
+2024-12-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",77.7
+2025-01-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",86.61
+2025-02-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",90.69
+2025-03-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",88.11
+2025-04-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",85.34
+2025-05-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",86.16
+2025-06-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",80.87
+2025-07-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",85.45
+2025-08-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",100.75
+2025-09-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",85.26
+2025-10-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",83.43
+2025-11-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",93.11
+2025-12-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",94.29
+2026-01-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",97.74
+2026-02-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",97.07
+2026-03-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",91.14
+2026-04-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",86.69
+2026-05-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",82.6
+2026-06-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",82.78
+2026-07-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",80.13
+2026-08-01,Nutrient-Dense,Leafy Vegetables,"KANGKONG, 1 KG",86.34
+2020-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",179.77
+2020-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",175.38
+2020-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",171.47
+2020-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",173.4
+2020-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",184.48
+2020-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",150.72
+2020-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",118.03
+2020-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",125.39
+2020-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",162.55
+2020-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",179.96
+2020-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",181.44
+2020-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",178.04
+2021-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",182.89
+2021-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",189.96
+2021-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",187.52
+2021-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",172.47
+2021-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",158.16
+2021-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",144.96
+2021-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",127.53
+2021-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",114.27
+2021-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",127.53
+2021-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",148.56
+2021-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",157.55
+2021-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",161.31
+2022-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",166.29
+2022-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",176.09
+2022-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",180.79
+2022-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",165.95
+2022-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",158.17
+2022-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",150.63
+2022-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",129.54
+2022-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",123.88
+2022-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",157.11
+2022-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",175.11
+2022-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",193.19
+2022-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",198.72
+2023-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",202.32
+2023-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",190.43
+2023-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",191.3
+2023-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",189.26
+2023-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",184.68
+2023-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",179.53
+2023-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",159.37
+2023-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",149.59
+2023-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",181.8
+2023-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",198.29
+2023-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",215.31
+2023-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",246.18
+2024-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",234.33
+2024-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",230.61
+2024-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",225.37
+2024-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",209.01
+2024-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",207.3
+2024-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",197.4
+2024-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",175.96
+2024-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",190.87
+2024-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",231.21
+2024-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",261.33
+2024-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",276.34
+2024-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",294.08
+2025-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",291.28
+2025-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",271.57
+2025-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",257.53
+2025-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",244.59
+2025-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",228.52
+2025-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",217.58
+2025-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",181.48
+2025-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",180.51
+2025-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",221.42
+2025-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",247.72
+2025-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",267.56
+2025-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",297.01
+2026-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",295.81
+2026-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",290.95
+2026-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",217.3
+2026-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",228.8
+2026-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",223.03
+2026-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",219.14
+2026-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",192
+2026-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, AVOCADO, 1 KG",185
+2020-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",71.16
+2020-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",71.92
+2020-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",78.77
+2020-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",93.28
+2020-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",90.89
+2020-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",89.28
+2020-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",87.61
+2020-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",87.32
+2020-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",86.25
+2020-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",84.02
+2020-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",83.21
+2020-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",81.76
+2021-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",80.34
+2021-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",78.09
+2021-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",75.94
+2021-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",76.21
+2021-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",75.83
+2021-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",72.82
+2021-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",69.35
+2021-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",65.88
+2021-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",69.35
+2021-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",66.1
+2021-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",64.36
+2021-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",62.57
+2022-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",64.9
+2022-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",64.87
+2022-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",64.31
+2022-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",64.44
+2022-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",64.34
+2022-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",64.58
+2022-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",64.53
+2022-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",65.3
+2022-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",67.01
+2022-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",67.66
+2022-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",68.77
+2022-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",73.25
+2023-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",81.18
+2023-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",84.62
+2023-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",87.12
+2023-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",89.01
+2023-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",91.04
+2023-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",89.5
+2023-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",88.07
+2023-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",87.16
+2023-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",88.09
+2023-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",91.17
+2023-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",93.74
+2023-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",96.28
+2024-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",99.54
+2024-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",101.67
+2024-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",101.67
+2024-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",102.16
+2024-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",101.57
+2024-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",101.04
+2024-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",102.13
+2024-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",103.37
+2024-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",103.74
+2024-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",103.83
+2024-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",104.97
+2024-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",105.07
+2025-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",105.49
+2025-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",105.7
+2025-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",105.35
+2025-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",104.06
+2025-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",105.27
+2025-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",105.08
+2025-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",103.03
+2025-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",99.85
+2025-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",98.17
+2025-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",98.59
+2025-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",98.11
+2025-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",98.28
+2026-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",100.44
+2026-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",100.15
+2026-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",100.11
+2026-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",100.46
+2026-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",98.6
+2026-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",99.16
+2026-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",99.41
+2026-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, BANANA, LAKATAN, MEDIUM, 1 KG",100.38
+2020-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",157.43
+2020-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",165.38
+2020-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",173.73
+2020-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",168.1
+2020-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",148.17
+2020-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",135.39
+2020-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",141.34
+2020-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",147.08
+2020-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",174.89
+2020-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",174.82
+2020-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",167.13
+2020-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",171.23
+2021-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",224.91
+2021-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",201.32
+2021-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",178.23
+2021-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",169.12
+2021-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",156.32
+2021-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",147.66
+2021-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",155.03
+2021-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",147.03
+2021-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",155.03
+2021-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",151.32
+2021-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",156.15
+2021-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",156.12
+2022-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",161.57
+2022-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",152.71
+2022-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",144.08
+2022-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",135.49
+2022-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",131.32
+2022-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",144.36
+2022-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",151.1
+2022-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",170.26
+2022-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",175.31
+2022-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",180.07
+2022-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",184.91
+2022-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",175.41
+2023-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",170.57
+2023-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",169.66
+2023-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",165.85
+2023-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",158.23
+2023-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",144.7
+2023-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",137.88
+2023-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",142.83
+2023-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",166.38
+2023-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",187.85
+2023-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",195.37
+2023-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",194.88
+2023-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",198.07
+2024-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",181.89
+2024-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",169.6
+2024-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",162.36
+2024-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",146.28
+2024-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",134.39
+2024-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",126.69
+2024-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",151.57
+2024-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",185.5
+2024-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",250.28
+2024-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",234.62
+2024-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",202.16
+2024-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",215.43
+2025-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",199.42
+2025-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",189.27
+2025-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",163.14
+2025-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",140.92
+2025-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",137.85
+2025-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",143.63
+2025-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",152.43
+2025-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",177.24
+2025-09-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",187.97
+2025-10-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",184.94
+2025-11-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",199.1
+2025-12-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",197.1
+2026-01-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",196.17
+2026-02-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",192.71
+2026-03-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",178.42
+2026-04-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",158.8
+2026-05-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",150.94
+2026-06-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",148.35
+2026-07-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",159.35
+2026-08-01,Nutrient-Dense,Fruits,"FRESH FRUIT, MANGO, KALABAW, RIPE, MEDIUM, 1 KG",183.38

@@ -1,0 +1,961 @@
+date,income_group,food_type,sub_category,cpi
+2020-01-01,All Income,Baseline,ALL ITEMS,103.9
+2020-02-01,All Income,Baseline,ALL ITEMS,103.4
+2020-03-01,All Income,Baseline,ALL ITEMS,103.3
+2020-04-01,All Income,Baseline,ALL ITEMS,103.2
+2020-05-01,All Income,Baseline,ALL ITEMS,103.2
+2020-06-01,All Income,Baseline,ALL ITEMS,103.6
+2020-07-01,All Income,Baseline,ALL ITEMS,103.8
+2020-08-01,All Income,Baseline,ALL ITEMS,103.8
+2020-09-01,All Income,Baseline,ALL ITEMS,103.8
+2020-10-01,All Income,Baseline,ALL ITEMS,104.5
+2020-11-01,All Income,Baseline,ALL ITEMS,105.7
+2020-12-01,All Income,Baseline,ALL ITEMS,106.2
+2021-01-01,All Income,Baseline,ALL ITEMS,107.4
+2021-02-01,All Income,Baseline,ALL ITEMS,106.7
+2021-03-01,All Income,Baseline,ALL ITEMS,105.9
+2021-04-01,All Income,Baseline,ALL ITEMS,105.7
+2021-05-01,All Income,Baseline,ALL ITEMS,105.9
+2021-06-01,All Income,Baseline,ALL ITEMS,106.3
+2021-07-01,All Income,Baseline,ALL ITEMS,106.8
+2021-08-01,All Income,Baseline,ALL ITEMS,107.2
+2021-09-01,All Income,Baseline,ALL ITEMS,106.9
+2021-10-01,All Income,Baseline,ALL ITEMS,107.1
+2021-11-01,All Income,Baseline,ALL ITEMS,108.0
+2021-12-01,All Income,Baseline,ALL ITEMS,108.4
+2022-01-01,All Income,Baseline,ALL ITEMS,108.8
+2022-02-01,All Income,Baseline,ALL ITEMS,108.7
+2022-03-01,All Income,Baseline,ALL ITEMS,109.5
+2022-04-01,All Income,Baseline,ALL ITEMS,110.3
+2022-05-01,All Income,Baseline,ALL ITEMS,110.9
+2022-06-01,All Income,Baseline,ALL ITEMS,112.2
+2022-07-01,All Income,Baseline,ALL ITEMS,112.3
+2022-08-01,All Income,Baseline,ALL ITEMS,113.3
+2022-09-01,All Income,Baseline,ALL ITEMS,113.9
+2022-10-01,All Income,Baseline,ALL ITEMS,115.3
+2022-11-01,All Income,Baseline,ALL ITEMS,116.1
+2022-12-01,All Income,Baseline,ALL ITEMS,116.6
+2023-01-01,All Income,Baseline,ALL ITEMS,118.2
+2023-02-01,All Income,Baseline,ALL ITEMS,118.2
+2023-03-01,All Income,Baseline,ALL ITEMS,118.0
+2023-04-01,All Income,Baseline,ALL ITEMS,118.1
+2023-05-01,All Income,Baseline,ALL ITEMS,118.1
+2023-06-01,All Income,Baseline,ALL ITEMS,118.4
+2023-07-01,All Income,Baseline,ALL ITEMS,118.6
+2023-08-01,All Income,Baseline,ALL ITEMS,120.0
+2023-09-01,All Income,Baseline,ALL ITEMS,120.8
+2023-10-01,All Income,Baseline,ALL ITEMS,121.0
+2023-11-01,All Income,Baseline,ALL ITEMS,120.9
+2023-12-01,All Income,Baseline,ALL ITEMS,120.7
+2024-01-01,All Income,Baseline,ALL ITEMS,121.4
+2024-02-01,All Income,Baseline,ALL ITEMS,121.9
+2024-03-01,All Income,Baseline,ALL ITEMS,121.9
+2024-04-01,All Income,Baseline,ALL ITEMS,121.4
+2024-05-01,All Income,Baseline,ALL ITEMS,121.8
+2024-06-01,All Income,Baseline,ALL ITEMS,121.2
+2024-07-01,All Income,Baseline,ALL ITEMS,122.9
+2024-08-01,All Income,Baseline,ALL ITEMS,122.8
+2024-09-01,All Income,Baseline,ALL ITEMS,122.8
+2024-10-01,All Income,Baseline,ALL ITEMS,122.7
+2024-11-01,All Income,Baseline,ALL ITEMS,123.7
+2024-12-01,All Income,Baseline,ALL ITEMS,124.5
+2025-01-01,All Income,Baseline,ALL ITEMS,124.9
+2025-02-01,All Income,Baseline,ALL ITEMS,124.7
+2025-03-01,All Income,Baseline,ALL ITEMS,124.4
+2025-04-01,All Income,Baseline,ALL ITEMS,124.3
+2025-05-01,All Income,Baseline,ALL ITEMS,123.9
+2025-06-01,All Income,Baseline,ALL ITEMS,124.3
+2025-07-01,All Income,Baseline,ALL ITEMS,125.0
+2025-08-01,All Income,Baseline,ALL ITEMS,126.4
+2025-09-01,All Income,Baseline,ALL ITEMS,126.2
+2025-10-01,All Income,Baseline,ALL ITEMS,126.3
+2025-11-01,All Income,Baseline,ALL ITEMS,127.1
+2025-12-01,All Income,Baseline,ALL ITEMS,127.3
+2026-01-01,All Income,Baseline,ALL ITEMS,127.3
+2026-02-01,All Income,Baseline,ALL ITEMS,127.1
+2026-03-01,All Income,Baseline,ALL ITEMS,128.8
+2026-04-01,All Income,Baseline,ALL ITEMS,131.2
+2026-05-01,All Income,Baseline,ALL ITEMS,130.2
+2026-06-01,All Income,Baseline,ALL ITEMS,130.3
+2026-07-01,All Income,Baseline,ALL ITEMS,130.6
+2026-08-01,All Income,Baseline,ALL ITEMS,131.6
+2020-01-01,All Income,Calorie-Dense,Cereals,97.2
+2020-02-01,All Income,Calorie-Dense,Cereals,97.3
+2020-03-01,All Income,Calorie-Dense,Cereals,97.6
+2020-04-01,All Income,Calorie-Dense,Cereals,98.1
+2020-05-01,All Income,Calorie-Dense,Cereals,98.7
+2020-06-01,All Income,Calorie-Dense,Cereals,99.4
+2020-07-01,All Income,Calorie-Dense,Cereals,99.8
+2020-08-01,All Income,Calorie-Dense,Cereals,100.0
+2020-09-01,All Income,Calorie-Dense,Cereals,99.9
+2020-10-01,All Income,Calorie-Dense,Cereals,99.9
+2020-11-01,All Income,Calorie-Dense,Cereals,99.9
+2020-12-01,All Income,Calorie-Dense,Cereals,100.1
+2021-01-01,All Income,Calorie-Dense,Cereals,100.4
+2021-02-01,All Income,Calorie-Dense,Cereals,100.3
+2021-03-01,All Income,Calorie-Dense,Cereals,100.3
+2021-04-01,All Income,Calorie-Dense,Cereals,100.5
+2021-05-01,All Income,Calorie-Dense,Cereals,100.6
+2021-06-01,All Income,Calorie-Dense,Cereals,100.5
+2021-07-01,All Income,Calorie-Dense,Cereals,100.5
+2021-08-01,All Income,Calorie-Dense,Cereals,100.2
+2021-09-01,All Income,Calorie-Dense,Cereals,100.9
+2021-10-01,All Income,Calorie-Dense,Cereals,100.5
+2021-11-01,All Income,Calorie-Dense,Cereals,100.8
+2021-12-01,All Income,Calorie-Dense,Cereals,100.8
+2022-01-01,All Income,Calorie-Dense,Cereals,101.4
+2022-02-01,All Income,Calorie-Dense,Cereals,101.6
+2022-03-01,All Income,Calorie-Dense,Cereals,101.9
+2022-04-01,All Income,Calorie-Dense,Cereals,102.3
+2022-05-01,All Income,Calorie-Dense,Cereals,103.0
+2022-06-01,All Income,Calorie-Dense,Cereals,103.4
+2022-07-01,All Income,Calorie-Dense,Cereals,103.9
+2022-08-01,All Income,Calorie-Dense,Cereals,104.7
+2022-09-01,All Income,Calorie-Dense,Cereals,105.0
+2022-10-01,All Income,Calorie-Dense,Cereals,105.4
+2022-11-01,All Income,Calorie-Dense,Cereals,105.9
+2022-12-01,All Income,Calorie-Dense,Cereals,106.5
+2023-01-01,All Income,Calorie-Dense,Cereals,106.6
+2023-02-01,All Income,Calorie-Dense,Cereals,106.9
+2023-03-01,All Income,Calorie-Dense,Cereals,107.4
+2023-04-01,All Income,Calorie-Dense,Cereals,108.1
+2023-05-01,All Income,Calorie-Dense,Cereals,108.5
+2023-06-01,All Income,Calorie-Dense,Cereals,108.8
+2023-07-01,All Income,Calorie-Dense,Cereals,109.5
+2023-08-01,All Income,Calorie-Dense,Cereals,113.0
+2023-09-01,All Income,Calorie-Dense,Cereals,115.1
+2023-10-01,All Income,Calorie-Dense,Cereals,113.9
+2023-11-01,All Income,Calorie-Dense,Cereals,115.8
+2023-12-01,All Income,Calorie-Dense,Cereals,117.7
+2024-01-01,All Income,Calorie-Dense,Cereals,118.5
+2024-02-01,All Income,Calorie-Dense,Cereals,118.8
+2024-03-01,All Income,Calorie-Dense,Cereals,119.5
+2024-04-01,All Income,Calorie-Dense,Cereals,120.2
+2024-05-01,All Income,Calorie-Dense,Cereals,121.1
+2024-06-01,All Income,Calorie-Dense,Cereals,121.1
+2024-07-01,All Income,Calorie-Dense,Cereals,120.8
+2024-08-01,All Income,Calorie-Dense,Cereals,120.6
+2024-09-01,All Income,Calorie-Dense,Cereals,120.8
+2024-10-01,All Income,Calorie-Dense,Cereals,120.5
+2024-11-01,All Income,Calorie-Dense,Cereals,120.1
+2024-12-01,All Income,Calorie-Dense,Cereals,120.1
+2025-01-01,All Income,Calorie-Dense,Cereals,119.5
+2025-02-01,All Income,Calorie-Dense,Cereals,118.5
+2025-03-01,All Income,Calorie-Dense,Cereals,116.8
+2025-04-01,All Income,Calorie-Dense,Cereals,115.4
+2025-05-01,All Income,Calorie-Dense,Cereals,114.5
+2025-06-01,All Income,Calorie-Dense,Cereals,114.3
+2025-07-01,All Income,Calorie-Dense,Cereals,113.5
+2025-08-01,All Income,Calorie-Dense,Cereals,112.8
+2025-09-01,All Income,Calorie-Dense,Cereals,112.5
+2025-10-01,All Income,Calorie-Dense,Cereals,112.2
+2025-11-01,All Income,Calorie-Dense,Cereals,113.0
+2025-12-01,All Income,Calorie-Dense,Cereals,114.6
+2026-01-01,All Income,Calorie-Dense,Cereals,116.5
+2026-02-01,All Income,Calorie-Dense,Cereals,118.9
+2026-03-01,All Income,Calorie-Dense,Cereals,122.0
+2026-04-01,All Income,Calorie-Dense,Cereals,123.3
+2026-05-01,All Income,Calorie-Dense,Cereals,122.4
+2026-06-01,All Income,Calorie-Dense,Cereals,121.6
+2026-07-01,All Income,Calorie-Dense,Cereals,121.5
+2026-08-01,All Income,Calorie-Dense,Cereals,121.9
+2020-01-01,All Income,Calorie-Dense,Rootcrops,116.7
+2020-02-01,All Income,Calorie-Dense,Rootcrops,119.9
+2020-03-01,All Income,Calorie-Dense,Rootcrops,123.5
+2020-04-01,All Income,Calorie-Dense,Rootcrops,130.9
+2020-05-01,All Income,Calorie-Dense,Rootcrops,127.4
+2020-06-01,All Income,Calorie-Dense,Rootcrops,120.8
+2020-07-01,All Income,Calorie-Dense,Rootcrops,111.4
+2020-08-01,All Income,Calorie-Dense,Rootcrops,108.6
+2020-09-01,All Income,Calorie-Dense,Rootcrops,107.2
+2020-10-01,All Income,Calorie-Dense,Rootcrops,106.2
+2020-11-01,All Income,Calorie-Dense,Rootcrops,112.9
+2020-12-01,All Income,Calorie-Dense,Rootcrops,137.5
+2021-01-01,All Income,Calorie-Dense,Rootcrops,157.2
+2021-02-01,All Income,Calorie-Dense,Rootcrops,128.0
+2021-03-01,All Income,Calorie-Dense,Rootcrops,105.7
+2021-04-01,All Income,Calorie-Dense,Rootcrops,96.9
+2021-05-01,All Income,Calorie-Dense,Rootcrops,94.4
+2021-06-01,All Income,Calorie-Dense,Rootcrops,93.2
+2021-07-01,All Income,Calorie-Dense,Rootcrops,95.1
+2021-08-01,All Income,Calorie-Dense,Rootcrops,111.5
+2021-09-01,All Income,Calorie-Dense,Rootcrops,95.1
+2021-10-01,All Income,Calorie-Dense,Rootcrops,124.8
+2021-11-01,All Income,Calorie-Dense,Rootcrops,124.6
+2021-12-01,All Income,Calorie-Dense,Rootcrops,122.3
+2022-01-01,All Income,Calorie-Dense,Rootcrops,124.1
+2022-02-01,All Income,Calorie-Dense,Rootcrops,114.2
+2022-03-01,All Income,Calorie-Dense,Rootcrops,106.7
+2022-04-01,All Income,Calorie-Dense,Rootcrops,107.8
+2022-05-01,All Income,Calorie-Dense,Rootcrops,113.5
+2022-06-01,All Income,Calorie-Dense,Rootcrops,116.8
+2022-07-01,All Income,Calorie-Dense,Rootcrops,120.6
+2022-08-01,All Income,Calorie-Dense,Rootcrops,119.8
+2022-09-01,All Income,Calorie-Dense,Rootcrops,122.2
+2022-10-01,All Income,Calorie-Dense,Rootcrops,134.6
+2022-11-01,All Income,Calorie-Dense,Rootcrops,162.3
+2022-12-01,All Income,Calorie-Dense,Rootcrops,186.5
+2023-01-01,All Income,Calorie-Dense,Rootcrops,184.0
+2023-02-01,All Income,Calorie-Dense,Rootcrops,171.2
+2023-03-01,All Income,Calorie-Dense,Rootcrops,155.2
+2023-04-01,All Income,Calorie-Dense,Rootcrops,152.9
+2023-05-01,All Income,Calorie-Dense,Rootcrops,147.4
+2023-06-01,All Income,Calorie-Dense,Rootcrops,152.4
+2023-07-01,All Income,Calorie-Dense,Rootcrops,167.0
+2023-08-01,All Income,Calorie-Dense,Rootcrops,193.1
+2023-09-01,All Income,Calorie-Dense,Rootcrops,216.0
+2023-10-01,All Income,Calorie-Dense,Rootcrops,248.2
+2023-11-01,All Income,Calorie-Dense,Rootcrops,220.9
+2023-12-01,All Income,Calorie-Dense,Rootcrops,206.2
+2024-01-01,All Income,Calorie-Dense,Rootcrops,184.1
+2024-02-01,All Income,Calorie-Dense,Rootcrops,171.4
+2024-03-01,All Income,Calorie-Dense,Rootcrops,172.9
+2024-04-01,All Income,Calorie-Dense,Rootcrops,164.6
+2024-05-01,All Income,Calorie-Dense,Rootcrops,161.4
+2024-06-01,All Income,Calorie-Dense,Rootcrops,189.2
+2024-07-01,All Income,Calorie-Dense,Rootcrops,170.8
+2024-08-01,All Income,Calorie-Dense,Rootcrops,164.6
+2024-09-01,All Income,Calorie-Dense,Rootcrops,161.8
+2024-10-01,All Income,Calorie-Dense,Rootcrops,159.1
+2024-11-01,All Income,Calorie-Dense,Rootcrops,174.0
+2024-12-01,All Income,Calorie-Dense,Rootcrops,208.0
+2025-01-01,All Income,Calorie-Dense,Rootcrops,220.2
+2025-02-01,All Income,Calorie-Dense,Rootcrops,191.5
+2025-03-01,All Income,Calorie-Dense,Rootcrops,167.0
+2025-04-01,All Income,Calorie-Dense,Rootcrops,149.0
+2025-05-01,All Income,Calorie-Dense,Rootcrops,142.3
+2025-06-01,All Income,Calorie-Dense,Rootcrops,140.5
+2025-07-01,All Income,Calorie-Dense,Rootcrops,142.7
+2025-08-01,All Income,Calorie-Dense,Rootcrops,160.1
+2025-09-01,All Income,Calorie-Dense,Rootcrops,169.6
+2025-10-01,All Income,Calorie-Dense,Rootcrops,191.7
+2025-11-01,All Income,Calorie-Dense,Rootcrops,209.8
+2025-12-01,All Income,Calorie-Dense,Rootcrops,215.5
+2026-01-01,All Income,Calorie-Dense,Rootcrops,211.8
+2026-02-01,All Income,Calorie-Dense,Rootcrops,183.2
+2026-03-01,All Income,Calorie-Dense,Rootcrops,164.6
+2026-04-01,All Income,Calorie-Dense,Rootcrops,158.8
+2026-05-01,All Income,Calorie-Dense,Rootcrops,156.8
+2026-06-01,All Income,Calorie-Dense,Rootcrops,179.7
+2026-07-01,All Income,Calorie-Dense,Rootcrops,193.3
+2026-08-01,All Income,Calorie-Dense,Rootcrops,204.2
+2020-01-01,All Income,Nutrient-Dense,Fruit Vegetables,104.7
+2020-02-01,All Income,Nutrient-Dense,Fruit Vegetables,99.7
+2020-03-01,All Income,Nutrient-Dense,Fruit Vegetables,98.8
+2020-04-01,All Income,Nutrient-Dense,Fruit Vegetables,107.4
+2020-05-01,All Income,Nutrient-Dense,Fruit Vegetables,101.7
+2020-06-01,All Income,Nutrient-Dense,Fruit Vegetables,87.9
+2020-07-01,All Income,Nutrient-Dense,Fruit Vegetables,84.9
+2020-08-01,All Income,Nutrient-Dense,Fruit Vegetables,93.5
+2020-09-01,All Income,Nutrient-Dense,Fruit Vegetables,93.6
+2020-10-01,All Income,Nutrient-Dense,Fruit Vegetables,116.3
+2020-11-01,All Income,Nutrient-Dense,Fruit Vegetables,179.6
+2020-12-01,All Income,Nutrient-Dense,Fruit Vegetables,173.8
+2021-01-01,All Income,Nutrient-Dense,Fruit Vegetables,179.6
+2021-02-01,All Income,Nutrient-Dense,Fruit Vegetables,120.0
+2021-03-01,All Income,Nutrient-Dense,Fruit Vegetables,89.8
+2021-04-01,All Income,Nutrient-Dense,Fruit Vegetables,84.1
+2021-05-01,All Income,Nutrient-Dense,Fruit Vegetables,79.0
+2021-06-01,All Income,Nutrient-Dense,Fruit Vegetables,92.4
+2021-07-01,All Income,Nutrient-Dense,Fruit Vegetables,112.1
+2021-08-01,All Income,Nutrient-Dense,Fruit Vegetables,137.7
+2021-09-01,All Income,Nutrient-Dense,Fruit Vegetables,112.1
+2021-10-01,All Income,Nutrient-Dense,Fruit Vegetables,109.3
+2021-11-01,All Income,Nutrient-Dense,Fruit Vegetables,102.5
+2021-12-01,All Income,Nutrient-Dense,Fruit Vegetables,111.3
+2022-01-01,All Income,Nutrient-Dense,Fruit Vegetables,114.1
+2022-02-01,All Income,Nutrient-Dense,Fruit Vegetables,102.9
+2022-03-01,All Income,Nutrient-Dense,Fruit Vegetables,107.5
+2022-04-01,All Income,Nutrient-Dense,Fruit Vegetables,124.9
+2022-05-01,All Income,Nutrient-Dense,Fruit Vegetables,119.1
+2022-06-01,All Income,Nutrient-Dense,Fruit Vegetables,120.7
+2022-07-01,All Income,Nutrient-Dense,Fruit Vegetables,108.9
+2022-08-01,All Income,Nutrient-Dense,Fruit Vegetables,109.2
+2022-09-01,All Income,Nutrient-Dense,Fruit Vegetables,119.0
+2022-10-01,All Income,Nutrient-Dense,Fruit Vegetables,146.9
+2022-11-01,All Income,Nutrient-Dense,Fruit Vegetables,168.4
+2022-12-01,All Income,Nutrient-Dense,Fruit Vegetables,145.4
+2023-01-01,All Income,Nutrient-Dense,Fruit Vegetables,154.6
+2023-02-01,All Income,Nutrient-Dense,Fruit Vegetables,133.6
+2023-03-01,All Income,Nutrient-Dense,Fruit Vegetables,118.6
+2023-04-01,All Income,Nutrient-Dense,Fruit Vegetables,107.1
+2023-05-01,All Income,Nutrient-Dense,Fruit Vegetables,108.4
+2023-06-01,All Income,Nutrient-Dense,Fruit Vegetables,111.4
+2023-07-01,All Income,Nutrient-Dense,Fruit Vegetables,125.2
+2023-08-01,All Income,Nutrient-Dense,Fruit Vegetables,170.7
+2023-09-01,All Income,Nutrient-Dense,Fruit Vegetables,183.7
+2023-10-01,All Income,Nutrient-Dense,Fruit Vegetables,154.2
+2023-11-01,All Income,Nutrient-Dense,Fruit Vegetables,143.4
+2023-12-01,All Income,Nutrient-Dense,Fruit Vegetables,128.0
+2024-01-01,All Income,Nutrient-Dense,Fruit Vegetables,145.1
+2024-02-01,All Income,Nutrient-Dense,Fruit Vegetables,143.4
+2024-03-01,All Income,Nutrient-Dense,Fruit Vegetables,130.4
+2024-04-01,All Income,Nutrient-Dense,Fruit Vegetables,129.5
+2024-05-01,All Income,Nutrient-Dense,Fruit Vegetables,133.1
+2024-06-01,All Income,Nutrient-Dense,Fruit Vegetables,145.1
+2024-07-01,All Income,Nutrient-Dense,Fruit Vegetables,177.3
+2024-08-01,All Income,Nutrient-Dense,Fruit Vegetables,159.5
+2024-09-01,All Income,Nutrient-Dense,Fruit Vegetables,146.8
+2024-10-01,All Income,Nutrient-Dense,Fruit Vegetables,154.0
+2024-11-01,All Income,Nutrient-Dense,Fruit Vegetables,210.9
+2024-12-01,All Income,Nutrient-Dense,Fruit Vegetables,220.8
+2025-01-01,All Income,Nutrient-Dense,Fruit Vegetables,212.6
+2025-02-01,All Income,Nutrient-Dense,Fruit Vegetables,134.8
+2025-03-01,All Income,Nutrient-Dense,Fruit Vegetables,125.8
+2025-04-01,All Income,Nutrient-Dense,Fruit Vegetables,119.8
+2025-05-01,All Income,Nutrient-Dense,Fruit Vegetables,129.7
+2025-06-01,All Income,Nutrient-Dense,Fruit Vegetables,131.2
+2025-07-01,All Income,Nutrient-Dense,Fruit Vegetables,145.2
+2025-08-01,All Income,Nutrient-Dense,Fruit Vegetables,187.3
+2025-09-01,All Income,Nutrient-Dense,Fruit Vegetables,177.2
+2025-10-01,All Income,Nutrient-Dense,Fruit Vegetables,186.3
+2025-11-01,All Income,Nutrient-Dense,Fruit Vegetables,199.2
+2025-12-01,All Income,Nutrient-Dense,Fruit Vegetables,217.2
+2026-01-01,All Income,Nutrient-Dense,Fruit Vegetables,194.0
+2026-02-01,All Income,Nutrient-Dense,Fruit Vegetables,146.8
+2026-03-01,All Income,Nutrient-Dense,Fruit Vegetables,136.8
+2026-04-01,All Income,Nutrient-Dense,Fruit Vegetables,134.9
+2026-05-01,All Income,Nutrient-Dense,Fruit Vegetables,137.7
+2026-06-01,All Income,Nutrient-Dense,Fruit Vegetables,148.6
+2026-07-01,All Income,Nutrient-Dense,Fruit Vegetables,160.8
+2026-08-01,All Income,Nutrient-Dense,Fruit Vegetables,186.6
+2020-01-01,All Income,Nutrient-Dense,Fruits,106.8
+2020-02-01,All Income,Nutrient-Dense,Fruits,107.8
+2020-03-01,All Income,Nutrient-Dense,Fruits,114.6
+2020-04-01,All Income,Nutrient-Dense,Fruits,126.0
+2020-05-01,All Income,Nutrient-Dense,Fruits,121.6
+2020-06-01,All Income,Nutrient-Dense,Fruits,118.5
+2020-07-01,All Income,Nutrient-Dense,Fruits,117.9
+2020-08-01,All Income,Nutrient-Dense,Fruits,118.7
+2020-09-01,All Income,Nutrient-Dense,Fruits,121.8
+2020-10-01,All Income,Nutrient-Dense,Fruits,119.7
+2020-11-01,All Income,Nutrient-Dense,Fruits,118.2
+2020-12-01,All Income,Nutrient-Dense,Fruits,117.5
+2021-01-01,All Income,Nutrient-Dense,Fruits,123.8
+2021-02-01,All Income,Nutrient-Dense,Fruits,119.3
+2021-03-01,All Income,Nutrient-Dense,Fruits,114.2
+2021-04-01,All Income,Nutrient-Dense,Fruits,113.6
+2021-05-01,All Income,Nutrient-Dense,Fruits,111.2
+2021-06-01,All Income,Nutrient-Dense,Fruits,106.8
+2021-07-01,All Income,Nutrient-Dense,Fruits,105.0
+2021-08-01,All Income,Nutrient-Dense,Fruits,101.2
+2021-09-01,All Income,Nutrient-Dense,Fruits,105.0
+2021-10-01,All Income,Nutrient-Dense,Fruits,102.7
+2021-11-01,All Income,Nutrient-Dense,Fruits,102.3
+2021-12-01,All Income,Nutrient-Dense,Fruits,101.3
+2022-01-01,All Income,Nutrient-Dense,Fruits,103.8
+2022-02-01,All Income,Nutrient-Dense,Fruits,102.0
+2022-03-01,All Income,Nutrient-Dense,Fruits,100.8
+2022-04-01,All Income,Nutrient-Dense,Fruits,99.9
+2022-05-01,All Income,Nutrient-Dense,Fruits,99.5
+2022-06-01,All Income,Nutrient-Dense,Fruits,101.7
+2022-07-01,All Income,Nutrient-Dense,Fruits,102.9
+2022-08-01,All Income,Nutrient-Dense,Fruits,106.2
+2022-09-01,All Income,Nutrient-Dense,Fruits,108.5
+2022-10-01,All Income,Nutrient-Dense,Fruits,109.9
+2022-11-01,All Income,Nutrient-Dense,Fruits,111.9
+2022-12-01,All Income,Nutrient-Dense,Fruits,114.8
+2023-01-01,All Income,Nutrient-Dense,Fruits,120.9
+2023-02-01,All Income,Nutrient-Dense,Fruits,123.6
+2023-03-01,All Income,Nutrient-Dense,Fruits,125.7
+2023-04-01,All Income,Nutrient-Dense,Fruits,126.2
+2023-05-01,All Income,Nutrient-Dense,Fruits,125.8
+2023-06-01,All Income,Nutrient-Dense,Fruits,123.6
+2023-07-01,All Income,Nutrient-Dense,Fruits,122.8
+2023-08-01,All Income,Nutrient-Dense,Fruits,125.7
+2023-09-01,All Income,Nutrient-Dense,Fruits,129.6
+2023-10-01,All Income,Nutrient-Dense,Fruits,133.5
+2023-11-01,All Income,Nutrient-Dense,Fruits,136.3
+2023-12-01,All Income,Nutrient-Dense,Fruits,139.3
+2024-01-01,All Income,Nutrient-Dense,Fruits,140.0
+2024-02-01,All Income,Nutrient-Dense,Fruits,139.9
+2024-03-01,All Income,Nutrient-Dense,Fruits,138.7
+2024-04-01,All Income,Nutrient-Dense,Fruits,136.6
+2024-05-01,All Income,Nutrient-Dense,Fruits,134.8
+2024-06-01,All Income,Nutrient-Dense,Fruits,133.7
+2024-07-01,All Income,Nutrient-Dense,Fruits,138.0
+2024-08-01,All Income,Nutrient-Dense,Fruits,143.4
+2024-09-01,All Income,Nutrient-Dense,Fruits,152.3
+2024-10-01,All Income,Nutrient-Dense,Fruits,151.0
+2024-11-01,All Income,Nutrient-Dense,Fruits,148.7
+2024-12-01,All Income,Nutrient-Dense,Fruits,150.9
+2025-01-01,All Income,Nutrient-Dense,Fruits,149.5
+2025-02-01,All Income,Nutrient-Dense,Fruits,148.3
+2025-03-01,All Income,Nutrient-Dense,Fruits,144.6
+2025-04-01,All Income,Nutrient-Dense,Fruits,141.0
+2025-05-01,All Income,Nutrient-Dense,Fruits,141.6
+2025-06-01,All Income,Nutrient-Dense,Fruits,142.2
+2025-07-01,All Income,Nutrient-Dense,Fruits,142.0
+2025-08-01,All Income,Nutrient-Dense,Fruits,142.3
+2025-09-01,All Income,Nutrient-Dense,Fruits,142.3
+2025-10-01,All Income,Nutrient-Dense,Fruits,142.9
+2025-11-01,All Income,Nutrient-Dense,Fruits,145.0
+2025-12-01,All Income,Nutrient-Dense,Fruits,145.6
+2026-01-01,All Income,Nutrient-Dense,Fruits,148.3
+2026-02-01,All Income,Nutrient-Dense,Fruits,147.2
+2026-03-01,All Income,Nutrient-Dense,Fruits,145.5
+2026-04-01,All Income,Nutrient-Dense,Fruits,144.0
+2026-05-01,All Income,Nutrient-Dense,Fruits,142.2
+2026-06-01,All Income,Nutrient-Dense,Fruits,142.4
+2026-07-01,All Income,Nutrient-Dense,Fruits,144.1
+2026-08-01,All Income,Nutrient-Dense,Fruits,147.8
+2020-01-01,All Income,Nutrient-Dense,Leafy Vegetables,99.4
+2020-02-01,All Income,Nutrient-Dense,Leafy Vegetables,97.1
+2020-03-01,All Income,Nutrient-Dense,Leafy Vegetables,98.9
+2020-04-01,All Income,Nutrient-Dense,Leafy Vegetables,107.7
+2020-05-01,All Income,Nutrient-Dense,Leafy Vegetables,118.4
+2020-06-01,All Income,Nutrient-Dense,Leafy Vegetables,110.7
+2020-07-01,All Income,Nutrient-Dense,Leafy Vegetables,100.9
+2020-08-01,All Income,Nutrient-Dense,Leafy Vegetables,101.0
+2020-09-01,All Income,Nutrient-Dense,Leafy Vegetables,97.7
+2020-10-01,All Income,Nutrient-Dense,Leafy Vegetables,101.1
+2020-11-01,All Income,Nutrient-Dense,Leafy Vegetables,146.3
+2020-12-01,All Income,Nutrient-Dense,Leafy Vegetables,156.2
+2021-01-01,All Income,Nutrient-Dense,Leafy Vegetables,162.9
+2021-02-01,All Income,Nutrient-Dense,Leafy Vegetables,139.6
+2021-03-01,All Income,Nutrient-Dense,Leafy Vegetables,109.6
+2021-04-01,All Income,Nutrient-Dense,Leafy Vegetables,104.2
+2021-05-01,All Income,Nutrient-Dense,Leafy Vegetables,101.8
+2021-06-01,All Income,Nutrient-Dense,Leafy Vegetables,111.9
+2021-07-01,All Income,Nutrient-Dense,Leafy Vegetables,117.1
+2021-08-01,All Income,Nutrient-Dense,Leafy Vegetables,154.6
+2021-09-01,All Income,Nutrient-Dense,Leafy Vegetables,117.1
+2021-10-01,All Income,Nutrient-Dense,Leafy Vegetables,125.2
+2021-11-01,All Income,Nutrient-Dense,Leafy Vegetables,123.3
+2021-12-01,All Income,Nutrient-Dense,Leafy Vegetables,111.9
+2022-01-01,All Income,Nutrient-Dense,Leafy Vegetables,110.1
+2022-02-01,All Income,Nutrient-Dense,Leafy Vegetables,101.7
+2022-03-01,All Income,Nutrient-Dense,Leafy Vegetables,102.0
+2022-04-01,All Income,Nutrient-Dense,Leafy Vegetables,106.6
+2022-05-01,All Income,Nutrient-Dense,Leafy Vegetables,111.4
+2022-06-01,All Income,Nutrient-Dense,Leafy Vegetables,113.9
+2022-07-01,All Income,Nutrient-Dense,Leafy Vegetables,112.8
+2022-08-01,All Income,Nutrient-Dense,Leafy Vegetables,113.2
+2022-09-01,All Income,Nutrient-Dense,Leafy Vegetables,119.6
+2022-10-01,All Income,Nutrient-Dense,Leafy Vegetables,133.4
+2022-11-01,All Income,Nutrient-Dense,Leafy Vegetables,145.4
+2022-12-01,All Income,Nutrient-Dense,Leafy Vegetables,150.8
+2023-01-01,All Income,Nutrient-Dense,Leafy Vegetables,137.8
+2023-02-01,All Income,Nutrient-Dense,Leafy Vegetables,129.2
+2023-03-01,All Income,Nutrient-Dense,Leafy Vegetables,121.3
+2023-04-01,All Income,Nutrient-Dense,Leafy Vegetables,121.1
+2023-05-01,All Income,Nutrient-Dense,Leafy Vegetables,122.4
+2023-06-01,All Income,Nutrient-Dense,Leafy Vegetables,129.2
+2023-07-01,All Income,Nutrient-Dense,Leafy Vegetables,149.4
+2023-08-01,All Income,Nutrient-Dense,Leafy Vegetables,167.1
+2023-09-01,All Income,Nutrient-Dense,Leafy Vegetables,164.6
+2023-10-01,All Income,Nutrient-Dense,Leafy Vegetables,167.1
+2023-11-01,All Income,Nutrient-Dense,Leafy Vegetables,143.0
+2023-12-01,All Income,Nutrient-Dense,Leafy Vegetables,126.4
+2024-01-01,All Income,Nutrient-Dense,Leafy Vegetables,121.5
+2024-02-01,All Income,Nutrient-Dense,Leafy Vegetables,121.1
+2024-03-01,All Income,Nutrient-Dense,Leafy Vegetables,122.1
+2024-04-01,All Income,Nutrient-Dense,Leafy Vegetables,124.1
+2024-05-01,All Income,Nutrient-Dense,Leafy Vegetables,126.5
+2024-06-01,All Income,Nutrient-Dense,Leafy Vegetables,143.9
+2024-07-01,All Income,Nutrient-Dense,Leafy Vegetables,132.5
+2024-08-01,All Income,Nutrient-Dense,Leafy Vegetables,130.1
+2024-09-01,All Income,Nutrient-Dense,Leafy Vegetables,135.0
+2024-10-01,All Income,Nutrient-Dense,Leafy Vegetables,147.2
+2024-11-01,All Income,Nutrient-Dense,Leafy Vegetables,163.0
+2024-12-01,All Income,Nutrient-Dense,Leafy Vegetables,159.0
+2025-01-01,All Income,Nutrient-Dense,Leafy Vegetables,146.0
+2025-02-01,All Income,Nutrient-Dense,Leafy Vegetables,141.6
+2025-03-01,All Income,Nutrient-Dense,Leafy Vegetables,140.2
+2025-04-01,All Income,Nutrient-Dense,Leafy Vegetables,148.8
+2025-05-01,All Income,Nutrient-Dense,Leafy Vegetables,152.3
+2025-06-01,All Income,Nutrient-Dense,Leafy Vegetables,144.8
+2025-07-01,All Income,Nutrient-Dense,Leafy Vegetables,148.8
+2025-08-01,All Income,Nutrient-Dense,Leafy Vegetables,200.6
+2025-09-01,All Income,Nutrient-Dense,Leafy Vegetables,165.8
+2025-10-01,All Income,Nutrient-Dense,Leafy Vegetables,167.0
+2025-11-01,All Income,Nutrient-Dense,Leafy Vegetables,171.7
+2025-12-01,All Income,Nutrient-Dense,Leafy Vegetables,171.3
+2026-01-01,All Income,Nutrient-Dense,Leafy Vegetables,166.3
+2026-02-01,All Income,Nutrient-Dense,Leafy Vegetables,158.0
+2026-03-01,All Income,Nutrient-Dense,Leafy Vegetables,149.1
+2026-04-01,All Income,Nutrient-Dense,Leafy Vegetables,143.1
+2026-05-01,All Income,Nutrient-Dense,Leafy Vegetables,142.1
+2026-06-01,All Income,Nutrient-Dense,Leafy Vegetables,155.9
+2026-07-01,All Income,Nutrient-Dense,Leafy Vegetables,156.3
+2026-08-01,All Income,Nutrient-Dense,Leafy Vegetables,179.7
+2020-01-01,Bottom 30%,Baseline,ALL ITEMS,104.0
+2020-02-01,Bottom 30%,Baseline,ALL ITEMS,103.4
+2020-03-01,Bottom 30%,Baseline,ALL ITEMS,103.4
+2020-04-01,Bottom 30%,Baseline,ALL ITEMS,103.6
+2020-05-01,Bottom 30%,Baseline,ALL ITEMS,103.6
+2020-06-01,Bottom 30%,Baseline,ALL ITEMS,104.0
+2020-07-01,Bottom 30%,Baseline,ALL ITEMS,104.2
+2020-08-01,Bottom 30%,Baseline,ALL ITEMS,104.2
+2020-09-01,Bottom 30%,Baseline,ALL ITEMS,104.3
+2020-10-01,Bottom 30%,Baseline,ALL ITEMS,105.2
+2020-11-01,Bottom 30%,Baseline,ALL ITEMS,107.0
+2020-12-01,Bottom 30%,Baseline,ALL ITEMS,107.4
+2021-01-01,Bottom 30%,Baseline,ALL ITEMS,108.6
+2021-02-01,Bottom 30%,Baseline,ALL ITEMS,107.7
+2021-03-01,Bottom 30%,Baseline,ALL ITEMS,106.6
+2021-04-01,Bottom 30%,Baseline,ALL ITEMS,106.5
+2021-05-01,Bottom 30%,Baseline,ALL ITEMS,106.6
+2021-06-01,Bottom 30%,Baseline,ALL ITEMS,106.9
+2021-07-01,Bottom 30%,Baseline,ALL ITEMS,107.4
+2021-08-01,Bottom 30%,Baseline,ALL ITEMS,108.0
+2021-09-01,Bottom 30%,Baseline,ALL ITEMS,107.6
+2021-10-01,Bottom 30%,Baseline,ALL ITEMS,107.6
+2021-11-01,Bottom 30%,Baseline,ALL ITEMS,108.6
+2021-12-01,Bottom 30%,Baseline,ALL ITEMS,109.2
+2022-01-01,Bottom 30%,Baseline,ALL ITEMS,109.5
+2022-02-01,Bottom 30%,Baseline,ALL ITEMS,109.3
+2022-03-01,Bottom 30%,Baseline,ALL ITEMS,110.0
+2022-04-01,Bottom 30%,Baseline,ALL ITEMS,110.8
+2022-05-01,Bottom 30%,Baseline,ALL ITEMS,111.4
+2022-06-01,Bottom 30%,Baseline,ALL ITEMS,112.7
+2022-07-01,Bottom 30%,Baseline,ALL ITEMS,113.1
+2022-08-01,Bottom 30%,Baseline,ALL ITEMS,114.1
+2022-09-01,Bottom 30%,Baseline,ALL ITEMS,114.8
+2022-10-01,Bottom 30%,Baseline,ALL ITEMS,116.6
+2022-11-01,Bottom 30%,Baseline,ALL ITEMS,117.5
+2022-12-01,Bottom 30%,Baseline,ALL ITEMS,118.4
+2023-01-01,Bottom 30%,Baseline,ALL ITEMS,120.2
+2023-02-01,Bottom 30%,Baseline,ALL ITEMS,119.9
+2023-03-01,Bottom 30%,Baseline,ALL ITEMS,119.5
+2023-04-01,Bottom 30%,Baseline,ALL ITEMS,119.7
+2023-05-01,Bottom 30%,Baseline,ALL ITEMS,119.9
+2023-06-01,Bottom 30%,Baseline,ALL ITEMS,120.2
+2023-07-01,Bottom 30%,Baseline,ALL ITEMS,120.5
+2023-08-01,Bottom 30%,Baseline,ALL ITEMS,122.3
+2023-09-01,Bottom 30%,Baseline,ALL ITEMS,123.2
+2023-10-01,Bottom 30%,Baseline,ALL ITEMS,123.3
+2023-11-01,Bottom 30%,Baseline,ALL ITEMS,123.3
+2023-12-01,Bottom 30%,Baseline,ALL ITEMS,123.4
+2024-01-01,Bottom 30%,Baseline,ALL ITEMS,124.3
+2024-02-01,Bottom 30%,Baseline,ALL ITEMS,124.6
+2024-03-01,Bottom 30%,Baseline,ALL ITEMS,124.6
+2024-04-01,Bottom 30%,Baseline,ALL ITEMS,124.2
+2024-05-01,Bottom 30%,Baseline,ALL ITEMS,124.8
+2024-06-01,Bottom 30%,Baseline,ALL ITEMS,124.4
+2024-07-01,Bottom 30%,Baseline,ALL ITEMS,126.0
+2024-08-01,Bottom 30%,Baseline,ALL ITEMS,125.9
+2024-09-01,Bottom 30%,Baseline,ALL ITEMS,126.1
+2024-10-01,Bottom 30%,Baseline,ALL ITEMS,125.9
+2024-11-01,Bottom 30%,Baseline,ALL ITEMS,127.0
+2024-12-01,Bottom 30%,Baseline,ALL ITEMS,127.9
+2025-01-01,Bottom 30%,Baseline,ALL ITEMS,128.4
+2025-02-01,Bottom 30%,Baseline,ALL ITEMS,128.0
+2025-03-01,Bottom 30%,Baseline,ALL ITEMS,127.5
+2025-04-01,Bottom 30%,Baseline,ALL ITEMS,127.2
+2025-05-01,Bottom 30%,Baseline,ALL ITEMS,126.9
+2025-06-01,Bottom 30%,Baseline,ALL ITEMS,127.2
+2025-07-01,Bottom 30%,Baseline,ALL ITEMS,128.0
+2025-08-01,Bottom 30%,Baseline,ALL ITEMS,129.4
+2025-09-01,Bottom 30%,Baseline,ALL ITEMS,129.0
+2025-10-01,Bottom 30%,Baseline,ALL ITEMS,129.1
+2025-11-01,Bottom 30%,Baseline,ALL ITEMS,130.0
+2025-12-01,Bottom 30%,Baseline,ALL ITEMS,130.4
+2026-01-01,Bottom 30%,Baseline,ALL ITEMS,130.8
+2026-02-01,Bottom 30%,Baseline,ALL ITEMS,130.6
+2026-03-01,Bottom 30%,Baseline,ALL ITEMS,131.8
+2026-04-01,Bottom 30%,Baseline,ALL ITEMS,133.8
+2026-05-01,Bottom 30%,Baseline,ALL ITEMS,133.3
+2026-06-01,Bottom 30%,Baseline,ALL ITEMS,133.5
+2026-07-01,Bottom 30%,Baseline,ALL ITEMS,133.8
+2026-08-01,Bottom 30%,Baseline,ALL ITEMS,135.0
+2020-01-01,Bottom 30%,Calorie-Dense,Cereals,95.4
+2020-02-01,Bottom 30%,Calorie-Dense,Cereals,95.5
+2020-03-01,Bottom 30%,Calorie-Dense,Cereals,95.9
+2020-04-01,Bottom 30%,Calorie-Dense,Cereals,96.6
+2020-05-01,Bottom 30%,Calorie-Dense,Cereals,97.3
+2020-06-01,Bottom 30%,Calorie-Dense,Cereals,98.5
+2020-07-01,Bottom 30%,Calorie-Dense,Cereals,99.1
+2020-08-01,Bottom 30%,Calorie-Dense,Cereals,99.4
+2020-09-01,Bottom 30%,Calorie-Dense,Cereals,99.2
+2020-10-01,Bottom 30%,Calorie-Dense,Cereals,99.2
+2020-11-01,Bottom 30%,Calorie-Dense,Cereals,99.1
+2020-12-01,Bottom 30%,Calorie-Dense,Cereals,99.3
+2021-01-01,Bottom 30%,Calorie-Dense,Cereals,99.6
+2021-02-01,Bottom 30%,Calorie-Dense,Cereals,99.5
+2021-03-01,Bottom 30%,Calorie-Dense,Cereals,99.6
+2021-04-01,Bottom 30%,Calorie-Dense,Cereals,99.7
+2021-05-01,Bottom 30%,Calorie-Dense,Cereals,99.9
+2021-06-01,Bottom 30%,Calorie-Dense,Cereals,99.9
+2021-07-01,Bottom 30%,Calorie-Dense,Cereals,99.9
+2021-08-01,Bottom 30%,Calorie-Dense,Cereals,100.3
+2021-09-01,Bottom 30%,Calorie-Dense,Cereals,100.3
+2021-10-01,Bottom 30%,Calorie-Dense,Cereals,100.6
+2021-11-01,Bottom 30%,Calorie-Dense,Cereals,100.8
+2021-12-01,Bottom 30%,Calorie-Dense,Cereals,100.9
+2022-01-01,Bottom 30%,Calorie-Dense,Cereals,101.6
+2022-02-01,Bottom 30%,Calorie-Dense,Cereals,101.9
+2022-03-01,Bottom 30%,Calorie-Dense,Cereals,102.2
+2022-04-01,Bottom 30%,Calorie-Dense,Cereals,102.6
+2022-05-01,Bottom 30%,Calorie-Dense,Cereals,103.2
+2022-06-01,Bottom 30%,Calorie-Dense,Cereals,103.5
+2022-07-01,Bottom 30%,Calorie-Dense,Cereals,104.0
+2022-08-01,Bottom 30%,Calorie-Dense,Cereals,104.7
+2022-09-01,Bottom 30%,Calorie-Dense,Cereals,104.9
+2022-10-01,Bottom 30%,Calorie-Dense,Cereals,105.3
+2022-11-01,Bottom 30%,Calorie-Dense,Cereals,105.8
+2022-12-01,Bottom 30%,Calorie-Dense,Cereals,106.3
+2023-01-01,Bottom 30%,Calorie-Dense,Cereals,106.4
+2023-02-01,Bottom 30%,Calorie-Dense,Cereals,106.6
+2023-03-01,Bottom 30%,Calorie-Dense,Cereals,107.2
+2023-04-01,Bottom 30%,Calorie-Dense,Cereals,108.0
+2023-05-01,Bottom 30%,Calorie-Dense,Cereals,108.5
+2023-06-01,Bottom 30%,Calorie-Dense,Cereals,108.9
+2023-07-01,Bottom 30%,Calorie-Dense,Cereals,109.8
+2023-08-01,Bottom 30%,Calorie-Dense,Cereals,114.3
+2023-09-01,Bottom 30%,Calorie-Dense,Cereals,116.0
+2023-10-01,Bottom 30%,Calorie-Dense,Cereals,114.1
+2023-11-01,Bottom 30%,Calorie-Dense,Cereals,116.0
+2023-12-01,Bottom 30%,Calorie-Dense,Cereals,117.9
+2024-01-01,Bottom 30%,Calorie-Dense,Cereals,118.7
+2024-02-01,Bottom 30%,Calorie-Dense,Cereals,119.1
+2024-03-01,Bottom 30%,Calorie-Dense,Cereals,120.0
+2024-04-01,Bottom 30%,Calorie-Dense,Cereals,120.9
+2024-05-01,Bottom 30%,Calorie-Dense,Cereals,122.2
+2024-06-01,Bottom 30%,Calorie-Dense,Cereals,122.3
+2024-07-01,Bottom 30%,Calorie-Dense,Cereals,121.8
+2024-08-01,Bottom 30%,Calorie-Dense,Cereals,121.7
+2024-09-01,Bottom 30%,Calorie-Dense,Cereals,121.9
+2024-10-01,Bottom 30%,Calorie-Dense,Cereals,121.4
+2024-11-01,Bottom 30%,Calorie-Dense,Cereals,120.8
+2024-12-01,Bottom 30%,Calorie-Dense,Cereals,120.7
+2025-01-01,Bottom 30%,Calorie-Dense,Cereals,120.0
+2025-02-01,Bottom 30%,Calorie-Dense,Cereals,118.9
+2025-03-01,Bottom 30%,Calorie-Dense,Cereals,116.8
+2025-04-01,Bottom 30%,Calorie-Dense,Cereals,115.1
+2025-05-01,Bottom 30%,Calorie-Dense,Cereals,114.1
+2025-06-01,Bottom 30%,Calorie-Dense,Cereals,113.7
+2025-07-01,Bottom 30%,Calorie-Dense,Cereals,112.7
+2025-08-01,Bottom 30%,Calorie-Dense,Cereals,111.8
+2025-09-01,Bottom 30%,Calorie-Dense,Cereals,111.4
+2025-10-01,Bottom 30%,Calorie-Dense,Cereals,111.1
+2025-11-01,Bottom 30%,Calorie-Dense,Cereals,111.8
+2025-12-01,Bottom 30%,Calorie-Dense,Cereals,113.4
+2026-01-01,Bottom 30%,Calorie-Dense,Cereals,115.8
+2026-02-01,Bottom 30%,Calorie-Dense,Cereals,118.9
+2026-03-01,Bottom 30%,Calorie-Dense,Cereals,122.9
+2026-04-01,Bottom 30%,Calorie-Dense,Cereals,124.6
+2026-05-01,Bottom 30%,Calorie-Dense,Cereals,123.7
+2026-06-01,Bottom 30%,Calorie-Dense,Cereals,122.8
+2026-07-01,Bottom 30%,Calorie-Dense,Cereals,122.7
+2026-08-01,Bottom 30%,Calorie-Dense,Cereals,123.2
+2020-01-01,Bottom 30%,Calorie-Dense,Rootcrops,117.2
+2020-02-01,Bottom 30%,Calorie-Dense,Rootcrops,120.6
+2020-03-01,Bottom 30%,Calorie-Dense,Rootcrops,124.6
+2020-04-01,Bottom 30%,Calorie-Dense,Rootcrops,132.3
+2020-05-01,Bottom 30%,Calorie-Dense,Rootcrops,127.9
+2020-06-01,Bottom 30%,Calorie-Dense,Rootcrops,121.0
+2020-07-01,Bottom 30%,Calorie-Dense,Rootcrops,111.0
+2020-08-01,Bottom 30%,Calorie-Dense,Rootcrops,108.2
+2020-09-01,Bottom 30%,Calorie-Dense,Rootcrops,106.5
+2020-10-01,Bottom 30%,Calorie-Dense,Rootcrops,105.3
+2020-11-01,Bottom 30%,Calorie-Dense,Rootcrops,112.3
+2020-12-01,Bottom 30%,Calorie-Dense,Rootcrops,139.1
+2021-01-01,Bottom 30%,Calorie-Dense,Rootcrops,160.6
+2021-02-01,Bottom 30%,Calorie-Dense,Rootcrops,128.9
+2021-03-01,Bottom 30%,Calorie-Dense,Rootcrops,104.6
+2021-04-01,Bottom 30%,Calorie-Dense,Rootcrops,95.1
+2021-05-01,Bottom 30%,Calorie-Dense,Rootcrops,92.3
+2021-06-01,Bottom 30%,Calorie-Dense,Rootcrops,91.1
+2021-07-01,Bottom 30%,Calorie-Dense,Rootcrops,93.2
+2021-08-01,Bottom 30%,Calorie-Dense,Rootcrops,110.2
+2021-09-01,Bottom 30%,Calorie-Dense,Rootcrops,93.2
+2021-10-01,Bottom 30%,Calorie-Dense,Rootcrops,125.2
+2021-11-01,Bottom 30%,Calorie-Dense,Rootcrops,125.0
+2021-12-01,Bottom 30%,Calorie-Dense,Rootcrops,122.5
+2022-01-01,Bottom 30%,Calorie-Dense,Rootcrops,124.0
+2022-02-01,Bottom 30%,Calorie-Dense,Rootcrops,113.6
+2022-03-01,Bottom 30%,Calorie-Dense,Rootcrops,105.4
+2022-04-01,Bottom 30%,Calorie-Dense,Rootcrops,106.4
+2022-05-01,Bottom 30%,Calorie-Dense,Rootcrops,112.8
+2022-06-01,Bottom 30%,Calorie-Dense,Rootcrops,116.3
+2022-07-01,Bottom 30%,Calorie-Dense,Rootcrops,120.3
+2022-08-01,Bottom 30%,Calorie-Dense,Rootcrops,119.4
+2022-09-01,Bottom 30%,Calorie-Dense,Rootcrops,121.6
+2022-10-01,Bottom 30%,Calorie-Dense,Rootcrops,134.9
+2022-11-01,Bottom 30%,Calorie-Dense,Rootcrops,165.2
+2022-12-01,Bottom 30%,Calorie-Dense,Rootcrops,191.7
+2023-01-01,Bottom 30%,Calorie-Dense,Rootcrops,188.4
+2023-02-01,Bottom 30%,Calorie-Dense,Rootcrops,174.5
+2023-03-01,Bottom 30%,Calorie-Dense,Rootcrops,156.9
+2023-04-01,Bottom 30%,Calorie-Dense,Rootcrops,153.8
+2023-05-01,Bottom 30%,Calorie-Dense,Rootcrops,147.3
+2023-06-01,Bottom 30%,Calorie-Dense,Rootcrops,151.9
+2023-07-01,Bottom 30%,Calorie-Dense,Rootcrops,167.3
+2023-08-01,Bottom 30%,Calorie-Dense,Rootcrops,195.0
+2023-09-01,Bottom 30%,Calorie-Dense,Rootcrops,219.7
+2023-10-01,Bottom 30%,Calorie-Dense,Rootcrops,255.2
+2023-11-01,Bottom 30%,Calorie-Dense,Rootcrops,225.6
+2023-12-01,Bottom 30%,Calorie-Dense,Rootcrops,209.9
+2024-01-01,Bottom 30%,Calorie-Dense,Rootcrops,185.9
+2024-02-01,Bottom 30%,Calorie-Dense,Rootcrops,172.3
+2024-03-01,Bottom 30%,Calorie-Dense,Rootcrops,174.1
+2024-04-01,Bottom 30%,Calorie-Dense,Rootcrops,165.1
+2024-05-01,Bottom 30%,Calorie-Dense,Rootcrops,161.3
+2024-06-01,Bottom 30%,Calorie-Dense,Rootcrops,191.4
+2024-07-01,Bottom 30%,Calorie-Dense,Rootcrops,171.1
+2024-08-01,Bottom 30%,Calorie-Dense,Rootcrops,163.2
+2024-09-01,Bottom 30%,Calorie-Dense,Rootcrops,159.7
+2024-10-01,Bottom 30%,Calorie-Dense,Rootcrops,157.0
+2024-11-01,Bottom 30%,Calorie-Dense,Rootcrops,173.1
+2024-12-01,Bottom 30%,Calorie-Dense,Rootcrops,210.3
+2025-01-01,Bottom 30%,Calorie-Dense,Rootcrops,224.3
+2025-02-01,Bottom 30%,Calorie-Dense,Rootcrops,193.2
+2025-03-01,Bottom 30%,Calorie-Dense,Rootcrops,166.7
+2025-04-01,Bottom 30%,Calorie-Dense,Rootcrops,147.2
+2025-05-01,Bottom 30%,Calorie-Dense,Rootcrops,139.9
+2025-06-01,Bottom 30%,Calorie-Dense,Rootcrops,138.0
+2025-07-01,Bottom 30%,Calorie-Dense,Rootcrops,139.9
+2025-08-01,Bottom 30%,Calorie-Dense,Rootcrops,158.4
+2025-09-01,Bottom 30%,Calorie-Dense,Rootcrops,168.9
+2025-10-01,Bottom 30%,Calorie-Dense,Rootcrops,192.8
+2025-11-01,Bottom 30%,Calorie-Dense,Rootcrops,212.3
+2025-12-01,Bottom 30%,Calorie-Dense,Rootcrops,218.3
+2026-01-01,Bottom 30%,Calorie-Dense,Rootcrops,214.8
+2026-02-01,Bottom 30%,Calorie-Dense,Rootcrops,183.7
+2026-03-01,Bottom 30%,Calorie-Dense,Rootcrops,163.7
+2026-04-01,Bottom 30%,Calorie-Dense,Rootcrops,157.7
+2026-05-01,Bottom 30%,Calorie-Dense,Rootcrops,155.1
+2026-06-01,Bottom 30%,Calorie-Dense,Rootcrops,179.6
+2026-07-01,Bottom 30%,Calorie-Dense,Rootcrops,194.3
+2026-08-01,Bottom 30%,Calorie-Dense,Rootcrops,205.6
+2020-01-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,105.6
+2020-02-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,100.2
+2020-03-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,99.5
+2020-04-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,107.9
+2020-05-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,101.5
+2020-06-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,87.0
+2020-07-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,84.6
+2020-08-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,93.1
+2020-09-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,92.9
+2020-10-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,117.1
+2020-11-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,183.6
+2020-12-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,175.6
+2021-01-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,183.5
+2021-02-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,121.4
+2021-03-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,90.4
+2021-04-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,84.7
+2021-05-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,79.1
+2021-06-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,92.0
+2021-07-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,111.9
+2021-08-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,139.2
+2021-09-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,111.9
+2021-10-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,110.2
+2021-11-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,103.7
+2021-12-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,113.2
+2022-01-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,115.0
+2022-02-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,102.9
+2022-03-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,107.4
+2022-04-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,125.2
+2022-05-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,119.9
+2022-06-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,122.6
+2022-07-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,110.2
+2022-08-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,110.4
+2022-09-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,119.9
+2022-10-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,148.3
+2022-11-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,171.4
+2022-12-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,147.3
+2023-01-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,157.8
+2023-02-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,134.4
+2023-03-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,118.7
+2023-04-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,107.6
+2023-05-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,108.7
+2023-06-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,111.7
+2023-07-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,126.1
+2023-08-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,172.9
+2023-09-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,185.2
+2023-10-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,155.5
+2023-11-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,145.7
+2023-12-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,129.5
+2024-01-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,147.4
+2024-02-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,143.9
+2024-03-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,130.4
+2024-04-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,129.6
+2024-05-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,133.3
+2024-06-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,145.3
+2024-07-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,178.7
+2024-08-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,162.4
+2024-09-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,149.0
+2024-10-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,155.7
+2024-11-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,215.5
+2024-12-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,223.4
+2025-01-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,217.3
+2025-02-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,136.2
+2025-03-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,127.6
+2025-04-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,120.7
+2025-05-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,130.8
+2025-06-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,132.5
+2025-07-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,147.8
+2025-08-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,189.9
+2025-09-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,177.7
+2025-10-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,188.6
+2025-11-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,202.6
+2025-12-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,219.9
+2026-01-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,196.1
+2026-02-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,146.5
+2026-03-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,135.8
+2026-04-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,133.6
+2026-05-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,136.8
+2026-06-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,147.9
+2026-07-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,161.7
+2026-08-01,Bottom 30%,Nutrient-Dense,Fruit Vegetables,190.1
+2020-01-01,Bottom 30%,Nutrient-Dense,Fruits,107.4
+2020-02-01,Bottom 30%,Nutrient-Dense,Fruits,108.6
+2020-03-01,Bottom 30%,Nutrient-Dense,Fruits,116.5
+2020-04-01,Bottom 30%,Nutrient-Dense,Fruits,132.1
+2020-05-01,Bottom 30%,Nutrient-Dense,Fruits,128.1
+2020-06-01,Bottom 30%,Nutrient-Dense,Fruits,125.3
+2020-07-01,Bottom 30%,Nutrient-Dense,Fruits,124.1
+2020-08-01,Bottom 30%,Nutrient-Dense,Fruits,124.3
+2020-09-01,Bottom 30%,Nutrient-Dense,Fruits,125.7
+2020-10-01,Bottom 30%,Nutrient-Dense,Fruits,123.0
+2020-11-01,Bottom 30%,Nutrient-Dense,Fruits,121.5
+2020-12-01,Bottom 30%,Nutrient-Dense,Fruits,120.3
+2021-01-01,Bottom 30%,Nutrient-Dense,Fruits,123.7
+2021-02-01,Bottom 30%,Nutrient-Dense,Fruits,119.3
+2021-03-01,Bottom 30%,Nutrient-Dense,Fruits,115.0
+2021-04-01,Bottom 30%,Nutrient-Dense,Fruits,114.7
+2021-05-01,Bottom 30%,Nutrient-Dense,Fruits,112.8
+2021-06-01,Bottom 30%,Nutrient-Dense,Fruits,108.4
+2021-07-01,Bottom 30%,Nutrient-Dense,Fruits,105.3
+2021-08-01,Bottom 30%,Nutrient-Dense,Fruits,100.7
+2021-09-01,Bottom 30%,Nutrient-Dense,Fruits,105.3
+2021-10-01,Bottom 30%,Nutrient-Dense,Fruits,101.8
+2021-11-01,Bottom 30%,Nutrient-Dense,Fruits,100.4
+2021-12-01,Bottom 30%,Nutrient-Dense,Fruits,98.7
+2022-01-01,Bottom 30%,Nutrient-Dense,Fruits,101.7
+2022-02-01,Bottom 30%,Nutrient-Dense,Fruits,100.6
+2022-03-01,Bottom 30%,Nutrient-Dense,Fruits,99.3
+2022-04-01,Bottom 30%,Nutrient-Dense,Fruits,98.8
+2022-05-01,Bottom 30%,Nutrient-Dense,Fruits,98.5
+2022-06-01,Bottom 30%,Nutrient-Dense,Fruits,100.1
+2022-07-01,Bottom 30%,Nutrient-Dense,Fruits,100.9
+2022-08-01,Bottom 30%,Nutrient-Dense,Fruits,103.4
+2022-09-01,Bottom 30%,Nutrient-Dense,Fruits,105.8
+2022-10-01,Bottom 30%,Nutrient-Dense,Fruits,106.8
+2022-11-01,Bottom 30%,Nutrient-Dense,Fruits,108.6
+2022-12-01,Bottom 30%,Nutrient-Dense,Fruits,112.9
+2023-01-01,Bottom 30%,Nutrient-Dense,Fruits,121.5
+2023-02-01,Bottom 30%,Nutrient-Dense,Fruits,125.4
+2023-03-01,Bottom 30%,Nutrient-Dense,Fruits,128.0
+2023-04-01,Bottom 30%,Nutrient-Dense,Fruits,129.3
+2023-05-01,Bottom 30%,Nutrient-Dense,Fruits,130.3
+2023-06-01,Bottom 30%,Nutrient-Dense,Fruits,128.1
+2023-07-01,Bottom 30%,Nutrient-Dense,Fruits,126.8
+2023-08-01,Bottom 30%,Nutrient-Dense,Fruits,128.3
+2023-09-01,Bottom 30%,Nutrient-Dense,Fruits,131.3
+2023-10-01,Bottom 30%,Nutrient-Dense,Fruits,135.4
+2023-11-01,Bottom 30%,Nutrient-Dense,Fruits,138.5
+2023-12-01,Bottom 30%,Nutrient-Dense,Fruits,141.9
+2024-01-01,Bottom 30%,Nutrient-Dense,Fruits,144.4
+2024-02-01,Bottom 30%,Nutrient-Dense,Fruits,145.3
+2024-03-01,Bottom 30%,Nutrient-Dense,Fruits,144.6
+2024-04-01,Bottom 30%,Nutrient-Dense,Fruits,143.5
+2024-05-01,Bottom 30%,Nutrient-Dense,Fruits,141.9
+2024-06-01,Bottom 30%,Nutrient-Dense,Fruits,140.9
+2024-07-01,Bottom 30%,Nutrient-Dense,Fruits,144.3
+2024-08-01,Bottom 30%,Nutrient-Dense,Fruits,148.7
+2024-09-01,Bottom 30%,Nutrient-Dense,Fruits,154.7
+2024-10-01,Bottom 30%,Nutrient-Dense,Fruits,153.8
+2024-11-01,Bottom 30%,Nutrient-Dense,Fruits,152.8
+2024-12-01,Bottom 30%,Nutrient-Dense,Fruits,154.7
+2025-01-01,Bottom 30%,Nutrient-Dense,Fruits,154.2
+2025-02-01,Bottom 30%,Nutrient-Dense,Fruits,153.1
+2025-03-01,Bottom 30%,Nutrient-Dense,Fruits,150.6
+2025-04-01,Bottom 30%,Nutrient-Dense,Fruits,147.5
+2025-05-01,Bottom 30%,Nutrient-Dense,Fruits,148.6
+2025-06-01,Bottom 30%,Nutrient-Dense,Fruits,148.9
+2025-07-01,Bottom 30%,Nutrient-Dense,Fruits,147.7
+2025-08-01,Bottom 30%,Nutrient-Dense,Fruits,146.1
+2025-09-01,Bottom 30%,Nutrient-Dense,Fruits,145.1
+2025-10-01,Bottom 30%,Nutrient-Dense,Fruits,145.5
+2025-11-01,Bottom 30%,Nutrient-Dense,Fruits,146.2
+2025-12-01,Bottom 30%,Nutrient-Dense,Fruits,147.0
+2026-01-01,Bottom 30%,Nutrient-Dense,Fruits,149.6
+2026-02-01,Bottom 30%,Nutrient-Dense,Fruits,148.8
+2026-03-01,Bottom 30%,Nutrient-Dense,Fruits,148.0
+2026-04-01,Bottom 30%,Nutrient-Dense,Fruits,147.2
+2026-05-01,Bottom 30%,Nutrient-Dense,Fruits,144.9
+2026-06-01,Bottom 30%,Nutrient-Dense,Fruits,145.6
+2026-07-01,Bottom 30%,Nutrient-Dense,Fruits,147.0
+2026-08-01,Bottom 30%,Nutrient-Dense,Fruits,149.9
+2020-01-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,104.4
+2020-02-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,102.6
+2020-03-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,104.7
+2020-04-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,112.8
+2020-05-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,122.2
+2020-06-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,115.2
+2020-07-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,105.4
+2020-08-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,106.8
+2020-09-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,103.2
+2020-10-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,108.3
+2020-11-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,155.5
+2020-12-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,155.8
+2021-01-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,161.7
+2021-02-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,142.3
+2021-03-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,115.0
+2021-04-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,110.5
+2021-05-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,108.7
+2021-06-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,121.1
+2021-07-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,123.7
+2021-08-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,156.4
+2021-09-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,123.7
+2021-10-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,127.8
+2021-11-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,124.7
+2021-12-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,115.8
+2022-01-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,116.3
+2022-02-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,108.9
+2022-03-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,110.4
+2022-04-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,114.9
+2022-05-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,119.1
+2022-06-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,123.3
+2022-07-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,122.4
+2022-08-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,122.0
+2022-09-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,126.8
+2022-10-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,140.0
+2022-11-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,150.8
+2022-12-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,155.2
+2023-01-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,144.3
+2023-02-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,136.0
+2023-03-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,129.4
+2023-04-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,130.4
+2023-05-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,132.3
+2023-06-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,138.8
+2023-07-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,155.2
+2023-08-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,172.6
+2023-09-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,169.2
+2023-10-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,170.4
+2023-11-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,148.2
+2023-12-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,134.7
+2024-01-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,131.3
+2024-02-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,130.6
+2024-03-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,132.2
+2024-04-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,134.5
+2024-05-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,137.2
+2024-06-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,160.1
+2024-07-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,143.6
+2024-08-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,141.5
+2024-09-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,146.9
+2024-10-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,157.4
+2024-11-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,171.5
+2024-12-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,167.7
+2025-01-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,156.1
+2025-02-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,151.5
+2025-03-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,151.6
+2025-04-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,159.6
+2025-05-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,162.3
+2025-06-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,155.4
+2025-07-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,160.1
+2025-08-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,213.0
+2025-09-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,175.9
+2025-10-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,177.1
+2025-11-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,184.4
+2025-12-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,184.1
+2026-01-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,179.5
+2026-02-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,171.0
+2026-03-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,162.5
+2026-04-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,156.0
+2026-05-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,155.5
+2026-06-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,170.4
+2026-07-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,169.1
+2026-08-01,Bottom 30%,Nutrient-Dense,Leafy Vegetables,196.4
