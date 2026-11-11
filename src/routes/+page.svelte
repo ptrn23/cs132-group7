@@ -11,13 +11,6 @@
     <section id="overview" class="pb-5">
         <p class="text-4xl font-bold"> Health is Wealth </p>
         <p class="text-xl font-semibold pb-3"> Analyzing the Affordability of Nutrient-Dense Foods Against the Inflation Inequality in the National Capital Region (2020-2026) </p>
-    
-        <div class="flex gap-x-5">
-            <MemberCard name="Marco Cantero"/>
-            <MemberCard name="Carlyne Consebido"/>
-            <MemberCard name="Lejand Errol Coralde"/>
-            <MemberCard name="Paul Timothy Necasio"/>
-        </div>
     </section>
 
     <section id="" class="pb-5 flex">
@@ -312,5 +305,19 @@
     <p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/17t6uVtI6CKeNMy7MRdKvYsVFrtNgjwn9CcHiKXYWtBY/edit?usp=drive_link"> Retail Prices Dataset </a></p>
     <p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/1R6nCpYbEkWRNtuBCi6Wzraem0R9GwkXNetu9Vd-Yr28/edit?usp=drive_link"> CPI Dataset </a> </p>
     <p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/18HjAdZfAfxVtZx1CT2IjdzfPrhRSuDuZVczOt79nfWY/edit?usp=sharing"> CS 132 2627A Group 7 Datasets (Combined) </a> </p>
+    </section>
+
+    <section id="eda" class="pt-5 pb-5">
+        <p class="text-xl font-bold pb-3"> Exploratory Data Analysis </p>
+    </section>
+
+    <section id="about">
+        <p class="text-xl font-bold pb-3"> About Us </p>
+        <div class="flex gap-x-5">
+            <MemberCard name="Marco Cantero"/>
+            <MemberCard name="Carlyne Consebido"/>
+            <MemberCard name="Lejand Errol Coralde"/>
+            <MemberCard name="Paul Timothy Necasio"/>
+        </div>
     </section>
 </div>
