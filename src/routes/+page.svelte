@@ -31,6 +31,8 @@
         <div class="flex gap-x-5">
             <MemberCard name="Marco Cantero"/>
             <MemberCard name="Carlyne Consebido"/>
+        </div>
+        <div class="flex gap-x-5">
             <MemberCard name="Lejand Errol Coralde"/>
             <MemberCard name="Paul Timothy Necasio"/>
         </div>
