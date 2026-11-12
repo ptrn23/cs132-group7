@@ -3,7 +3,7 @@
 </script>
 
 <section id="hypothesis">
-    <p class="text-xl font-bold pb-2"> Research Questions and Hypotheses </p>
+    <p class="text-xl font-bold mb-3 py-1.5 w-1/3 text-center px-4 bg-ac-light-pink rounded-full"> Research Questions and Hypotheses </p>
 
     <div class="flex gap-5 pb-3"> 
         <CardWithTitle title="How do the absolute retail prices (₱/kg) and inflation rates of plant-based nutrient-dense foods (fruits, leafy vegetables, fruit vegetables) compare to calorie-dense foods (cereals, rootcrops) in the NCR from 2020 to 2026?" text="" />

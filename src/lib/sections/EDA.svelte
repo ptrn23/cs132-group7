@@ -1,0 +1,15 @@
+<script>
+    import RQ2 from "$lib/assets/rq2_inflation_gap.png";
+    import RQ3 from "$lib/assets/rq3_affordability_ratio.png";
+    import Nutshell from "$lib/assets/nutshell.png";
+</script>
+
+<section id="eda" class="pb-5">
+    <p class="text-xl font-bold mb-3 py-1.5 w-1/4 text-center px-4 bg-ac-light-pink rounded-full"> Exploratory Data Analysis </p>
+
+    <div>
+        <img src={RQ2} alt="Research Question 2"/>
+        <img src={RQ3} alt="Research Question 3"/>
+        <img src={Nutshell} alt="Nutshell Plot"/>
+    </div>
+</section>
