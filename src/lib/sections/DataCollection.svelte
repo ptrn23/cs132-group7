@@ -15,7 +15,7 @@
         expanded[section] = !expanded[section];
     }
 
-    let tabs = ['About the Dataset', 'Collection', 'Preprocessing', 'Final Datasets'];
+    let tabs = ['About the Dataset', 'Data Collection', 'Preprocessing', 'Final Datasets'];
     let activeTab = $state('About the Dataset');
 
     function handleTabClick(tab: string){
@@ -41,9 +41,10 @@
             </ul>
         {/if}
 
-        {#if activeTab == 'Collection'}
+        {#if activeTab == 'Data Collection'}
             <p> All data was acquired through OpenStat, the open data portal managed by the Philippine Statistics Authority (PSA). </p>
-
+            <p> The PSA conducts and collects all national censuses and surveys for their data. For this project, we isolated the scope of the datasets to cover specific food groups and to only cover the NCR. </p>
+    
             <p class="pl-2"> Calorie-dense Food </p>
             <ol class="list-decimal pl-8 pb-2"> 
                 <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018NEW/0042M4ARN01.px/?rxid=b030d5e8-77f7-488c-bb2a-ec0aec32d59a"> Cereals: Retail Prices of Agricultural Commodities by Geolocation, Commodity, Year and Period </a> </li>
@@ -62,91 +63,29 @@
                 <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__PI__BIH__2018NEW/0022M4ABIR1.px/?rxid=9ac08fde-3be2-4941-8b85-0a12242bb764"> Consumer Price Index for Bottom 30% Income Households by Commodity Group (2018=100): January 2018 - August 2026 </a> </li>
                 <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__PI__CPI__2018NEW/0012M4ACP22.px/?rxid=cf799e95-a36e-4896-b860-e6412f6b3108"> Consumer Price Index for All Income Households by Commodity Group (2018=100): January 2018 - August 2026 </a> </li>
             </ol>
+
+            <p> Size before preprocessing </p>
+            <ul class="list-disc pb-2 pl-8"> 
+                <li> Date: January 2018 - August 2026 (monthly) </li>
+                <li> Region: 120 regional areas in the Philippines (including Philippines, cities, and provinces) </li>
+                <li> <p> Retail Prices dataset </p>
+                    <ul class="list-disc pl-8"> 
+                        <li> 5 datasets (Fruits, Fruit Vegetables, Leafy Vegetables, Cereals, Rootcrops) </li>
+                        <li> 4284 + 1071 + 1428 + 1666 + 2975 rows (respectively) = 11424 rows in total </li>
+                    </ul>
+                </li>
+                <li> <p> Consumer Price Index dataset </p>
+                    <ul class="list-disc pl-8"> 
+                        <li> 2 datasets (Bottom 30% Income, All Income) </li>
+                        <li> 37680 + 42480 rows (respectively) = 80160 rows in total </li>
+                        <li> 354 commodities (includes food, financial services, education, furniture, etc.) </li>
+                    </ul>
+                </li>
+            </ul>
         {/if}
 
         {#if activeTab == 'Preprocessing'}
-            preprocessing
-        {/if}
-
-        {#if activeTab == 'Final Datasets'}
-            <p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/17t6uVtI6CKeNMy7MRdKvYsVFrtNgjwn9CcHiKXYWtBY/edit?usp=drive_link"> Retail Prices Dataset </a></p>
-            <p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/1R6nCpYbEkWRNtuBCi6Wzraem0R9GwkXNetu9Vd-Yr28/edit?usp=drive_link"> CPI Dataset </a> </p>
-            <p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/18HjAdZfAfxVtZx1CT2IjdzfPrhRSuDuZVczOt79nfWY/edit?usp=sharing"> CS 132 2627A Group 7 Datasets (Combined) </a> </p>
-        {/if}
-    </div>
-
-    <button class="font-semibold flex text-left" onclick={() => expandSection('method')}> 
-        Sampling Method 
-        {#if expanded['method']}
-            <Uparrow />
-        {:else}
-            <Downarrow />
-        {/if}
-    </button>
-    {#if expanded['method']}
-        <p> The PSA conducts and collects all national censuses and surveys for their data. For this project, we isolated the scope of the datasets to cover specific food groups and to only cover the NCR. </p>
-    {/if}
-
-    <button class="font-semibold flex text-left" onclick={() => expandSection('size')}> 
-        Data set size 
-        {#if expanded['size']}
-            <Uparrow />
-        {:else}
-            <Downarrow />
-        {/if}
-    </button>
-    {#if expanded['size']}
-        <p> Before preprocessing </p>
-        <ul class="list-disc pb-2 pl-8"> 
-            <li> Date: January 2018 - August 2026 (monthly) </li>
-            <li> Region: 120 regional areas in the Philippines (including Philippines, cities, and provinces) </li>
-            <li> <p> Retail Prices dataset </p>
-                <ul class="list-disc pl-8"> 
-                    <li> 5 datasets (Fruits, Fruit Vegetables, Leafy Vegetables, Cereals, Rootcrops) </li>
-                    <li> 4284 + 1071 + 1428 + 1666 + 2975 rows (respectively) = 11424 rows in total </li>
-                </ul>
-            </li>
-            <li> <p> Consumer Price Index dataset </p>
-                <ul class="list-disc pl-8"> 
-                    <li> 2 datasets (Bottom 30% Income, All Income) </li>
-                    <li> 37680 + 42480 rows (respectively) = 80160 rows in total </li>
-                    <li> 354 commodities (includes food, financial services, education, furniture, etc.) </li>
-                </ul>
-            </li>
-        </ul>
-
-        <p> After preprocessing </p>
-        <ul class="list-disc pb-3 pl-8"> 
-            <li> Date: January 2020 - August 2026 (monthly) </li>
-            <li> Region: National Capital Region (NCR) </li>
-            <li> <p> Retail Prices dataset </p>
-                <ul class="list-disc pl-8"> 
-                    <li> 1884 rows </li>
-                    <li> 2 major groups (nutrient-dense vs. calorie-dense) </li>
-                    <li> 5 subgroups (Fruits, Fruit Vegetables, Leafy Vegetables, Cereals, Rootcrops) </li>
-                    <li> 80 months per commodity </li>
-                </ul>
-            </li>
-            <li> <p> Consumer Price Index dataset </p>
-                <ul class="list-disc pl-8"> 
-                    <li> 960 rows </li>
-                    <li> 2 major groups (Bottom 30% Income, All Income) </li>
-                    <li> 80 months per commodity </li>
-                </ul>
-            </li>
-        </ul>
-    {/if}
-
-    <button class="font-semibold flex text-left" onclick={() => expandSection('preproc')}> 
-        Preprocessing 
-        {#if expanded['preproc']}
-            <Uparrow />
-        {:else}
-            <Downarrow />
-        {/if}
-    </button>
-    {#if expanded['preproc']}
-        <p> Preprocessing for retail prices dataset </p>
+            <p> Preprocessing for retail prices dataset </p>
         <ol class="list-decimal pl-8">
             <li> filter the Geolocation column to be ..NCR - National Capital Region only </li>
             <li> drop the columns for 2018 January to 2019 Annual </li>
@@ -299,7 +238,33 @@
                     </tbody>
                 </table>
             </div>
-    {/if}
 
-<p class="font-semibold"> Preprocessed Datasets </p>
+            <p> Size after preprocessing </p>
+            <ul class="list-disc pb-3 pl-8"> 
+                <li> Date: January 2020 - August 2026 (monthly) </li>
+                <li> Region: National Capital Region (NCR) </li>
+                <li> <p> Retail Prices dataset </p>
+                    <ul class="list-disc pl-8"> 
+                        <li> 1884 rows </li>
+                        <li> 2 major groups (nutrient-dense vs. calorie-dense) </li>
+                        <li> 5 subgroups (Fruits, Fruit Vegetables, Leafy Vegetables, Cereals, Rootcrops) </li>
+                        <li> 80 months per commodity </li>
+                    </ul>
+                </li>
+                <li> <p> Consumer Price Index dataset </p>
+                    <ul class="list-disc pl-8"> 
+                        <li> 960 rows </li>
+                        <li> 2 major groups (Bottom 30% Income, All Income) </li>
+                        <li> 80 months per commodity </li>
+                    </ul>
+                </li>
+            </ul>
+        {/if}
+
+        {#if activeTab == 'Final Datasets'}
+            <p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/17t6uVtI6CKeNMy7MRdKvYsVFrtNgjwn9CcHiKXYWtBY/edit?usp=drive_link"> Retail Prices Dataset </a></p>
+            <p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/1R6nCpYbEkWRNtuBCi6Wzraem0R9GwkXNetu9Vd-Yr28/edit?usp=drive_link"> CPI Dataset </a> </p>
+            <p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/18HjAdZfAfxVtZx1CT2IjdzfPrhRSuDuZVczOt79nfWY/edit?usp=sharing"> CS 132 2627A Group 7 Datasets (Combined) </a> </p>
+        {/if}
+    </div>
 </section>

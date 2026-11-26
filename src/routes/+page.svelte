@@ -3,6 +3,7 @@
     import ResearchQuestions from "$lib/sections/ResearchQuestions.svelte";
     import DataCollection from "$lib/sections/DataCollection.svelte";
     import EDA from "$lib/sections/EDA.svelte";
+    import Conclusion from "$lib/sections/Conclusion.svelte";
 
     import karin from "$lib/assets/karin.png";
     import lej from "$lib/assets/lej.jpg";
@@ -21,6 +22,8 @@
     <DataCollection />
     <Divider />
     <EDA />
+    <Divider />
+    <Conclusion />
     <Divider />
 
     <section id="about">

@@ -23,7 +23,6 @@
             <img src={Ten} alt="Reduced Inequalities" class="w-40 h-40 rounded-xl"/>
             </div> 
         </div>
-        
     </div>
 
     <div class="w-3/5">
