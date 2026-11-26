@@ -14,56 +14,66 @@
     function expandSection(section: Section) {
         expanded[section] = !expanded[section];
     }
+
+    let tabs = ['About the Dataset', 'Collection', 'Preprocessing', 'Final Datasets'];
+    let activeTab = $state('About the Dataset');
+
+    function handleTabClick(tab: string){
+        activeTab = tab;
+    }
 </script>
 
 <section id="data" class="pb-5">
-    <p class="text-xl font-bold mb-3 py-1.5 w-1/6 text-center px-4 bg-ac-light-pink rounded-full"> Data Collection </p>
-    <button class="font-semibold flex text-left" onclick={() => expandSection('desc')}> 
-        Dataset Description 
-        {#if expanded['desc']}
-            <Uparrow />
-        {:else}
-            <Downarrow />
+    <div class="flex gap-x-5 w-full mb-5 justify-center">
+        {#each tabs as tab}
+            <button class="{activeTab == tab ? 'bg-ac-pink' : 'bg-ac-light-pink'} text-lg font-semibold rounded-lg p-2 px-5 hover:bg-ac-pink/75" onclick={() => handleTabClick(tab)}> 
+                <p> {tab} </p>
+            </button>
+        {/each}
+    </div>
+
+    <div class="p-5 w-full h-auto mb-5 rounded-lg border border-ac-brown border-3">
+        {#if activeTab == 'About the Dataset'}
+            <p class=""> This project will use two types of datasets: </p>
+            <ul class="list-disc pl-8 pb-2">
+                <li> retail prices dataset (tracking absolute ₱/kg for Cereals, Rootcrops, Fruits, Leafy Vegetables, and Fruit Vegetables) </li>
+                <li> Consumer Price Index dataset (tracking inflation indices for Bottom 30% and All Income households) </li>
+            </ul>
         {/if}
-    </button>
-    {#if expanded['desc']}
-        <p class=""> This project will use two types of datasets: </p>
-        <ul class="list-disc pl-8 pb-2">
-            <li> retail prices dataset (tracking absolute ₱/kg for Cereals, Rootcrops, Fruits, Leafy Vegetables, and Fruit Vegetables) </li>
-            <li> Consumer Price Index dataset (tracking inflation indices for Bottom 30% and All Income households) </li>
-        </ul>
-    {/if}
 
-    <button class="font-semibold flex text-left" onclick={() => expandSection('proc')}> 
-        Data Collection Process 
-        {#if expanded['proc']}
-            <Uparrow />
-        {:else}
-            <Downarrow />
+        {#if activeTab == 'Collection'}
+            <p> All data was acquired through OpenStat, the open data portal managed by the Philippine Statistics Authority (PSA). </p>
+
+            <p class="pl-2"> Calorie-dense Food </p>
+            <ol class="list-decimal pl-8 pb-2"> 
+                <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018NEW/0042M4ARN01.px/?rxid=b030d5e8-77f7-488c-bb2a-ec0aec32d59a"> Cereals: Retail Prices of Agricultural Commodities by Geolocation, Commodity, Year and Period </a> </li>
+                <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018NEW/0042M4ARN02.px/?rxid=b030d5e8-77f7-488c-bb2a-ec0aec32d59a" >Rootcrops: Retail Prices of Agricultural Commodities by Geolocation, Commodity, Year and Period </a> </li>
+            </ol>
+
+            <p class="pl-2"> Nutrient-dense Food </p>
+            <ol class="list-decimal pl-8 pb-2"> 
+                <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018NEW/0042M4ARN05.px/?rxid=b030d5e8-77f7-488c-bb2a-ec0aec32d59a"> Fruit Vegetables: Retail Prices of Agricultural Commodities by Geolocation, Commodity, Year and Period </a> </li>
+                <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018NEW/0042M4ARN06.px/?rxid=b030d5e8-77f7-488c-bb2a-ec0aec32d59a"> Leafy Vegetables: Retail Prices of Agricultural Commodities by Geolocation, Commodity, Year and Period </a> </li>
+                <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018NEW/0042M4ARN07.px/?rxid=b030d5e8-77f7-488c-bb2a-ec0aec32d59a"> Fruits: Retail Prices of Agricultural Commodities by Geolocation, Commodity, Year and Period </a> </li>
+            </ol>
+
+            <p class="pl-2"> Consumer Price Index </p>
+            <ol class="list-decimal pl-8 pb-2">
+                <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__PI__BIH__2018NEW/0022M4ABIR1.px/?rxid=9ac08fde-3be2-4941-8b85-0a12242bb764"> Consumer Price Index for Bottom 30% Income Households by Commodity Group (2018=100): January 2018 - August 2026 </a> </li>
+                <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__PI__CPI__2018NEW/0012M4ACP22.px/?rxid=cf799e95-a36e-4896-b860-e6412f6b3108"> Consumer Price Index for All Income Households by Commodity Group (2018=100): January 2018 - August 2026 </a> </li>
+            </ol>
         {/if}
-    </button>
-    {#if expanded['proc']}
-        <p> All data was acquired through OpenStat, the open data portal managed by the Philippine Statistics Authority (PSA). </p>
 
-        <p class="pl-2"> Calorie-dense Food </p>
-        <ol class="list-decimal pl-8 pb-2"> 
-            <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018NEW/0042M4ARN01.px/?rxid=b030d5e8-77f7-488c-bb2a-ec0aec32d59a"> Cereals: Retail Prices of Agricultural Commodities by Geolocation, Commodity, Year and Period </a> </li>
-            <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018NEW/0042M4ARN02.px/?rxid=b030d5e8-77f7-488c-bb2a-ec0aec32d59a" >Rootcrops: Retail Prices of Agricultural Commodities by Geolocation, Commodity, Year and Period </a> </li>
-        </ol>
+        {#if activeTab == 'Preprocessing'}
+            preprocessing
+        {/if}
 
-        <p class="pl-2"> Nutrient-dense Food </p>
-        <ol class="list-decimal pl-8 pb-2"> 
-            <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018NEW/0042M4ARN05.px/?rxid=b030d5e8-77f7-488c-bb2a-ec0aec32d59a"> Fruit Vegetables: Retail Prices of Agricultural Commodities by Geolocation, Commodity, Year and Period </a> </li>
-            <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018NEW/0042M4ARN06.px/?rxid=b030d5e8-77f7-488c-bb2a-ec0aec32d59a"> Leafy Vegetables: Retail Prices of Agricultural Commodities by Geolocation, Commodity, Year and Period </a> </li>
-            <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018NEW/0042M4ARN07.px/?rxid=b030d5e8-77f7-488c-bb2a-ec0aec32d59a"> Fruits: Retail Prices of Agricultural Commodities by Geolocation, Commodity, Year and Period </a> </li>
-        </ol>
-
-        <p class="pl-2"> Consumer Price Index </p>
-        <ol class="list-decimal pl-8 pb-2">
-            <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__PI__BIH__2018NEW/0022M4ABIR1.px/?rxid=9ac08fde-3be2-4941-8b85-0a12242bb764"> Consumer Price Index for Bottom 30% Income Households by Commodity Group (2018=100): January 2018 - August 2026 </a> </li>
-            <li> <a class="text-blue-500 underline" href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__PI__CPI__2018NEW/0012M4ACP22.px/?rxid=cf799e95-a36e-4896-b860-e6412f6b3108"> Consumer Price Index for All Income Households by Commodity Group (2018=100): January 2018 - August 2026 </a> </li>
-        </ol>
-    {/if}
+        {#if activeTab == 'Final Datasets'}
+            <p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/17t6uVtI6CKeNMy7MRdKvYsVFrtNgjwn9CcHiKXYWtBY/edit?usp=drive_link"> Retail Prices Dataset </a></p>
+            <p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/1R6nCpYbEkWRNtuBCi6Wzraem0R9GwkXNetu9Vd-Yr28/edit?usp=drive_link"> CPI Dataset </a> </p>
+            <p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/18HjAdZfAfxVtZx1CT2IjdzfPrhRSuDuZVczOt79nfWY/edit?usp=sharing"> CS 132 2627A Group 7 Datasets (Combined) </a> </p>
+        {/if}
+    </div>
 
     <button class="font-semibold flex text-left" onclick={() => expandSection('method')}> 
         Sampling Method 
@@ -292,7 +302,4 @@
     {/if}
 
 <p class="font-semibold"> Preprocessed Datasets </p>
-<p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/17t6uVtI6CKeNMy7MRdKvYsVFrtNgjwn9CcHiKXYWtBY/edit?usp=drive_link"> Retail Prices Dataset </a></p>
-<p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/1R6nCpYbEkWRNtuBCi6Wzraem0R9GwkXNetu9Vd-Yr28/edit?usp=drive_link"> CPI Dataset </a> </p>
-<p> <a class="text-blue-500 underline" href="https://docs.google.com/spreadsheets/d/18HjAdZfAfxVtZx1CT2IjdzfPrhRSuDuZVczOt79nfWY/edit?usp=sharing"> CS 132 2627A Group 7 Datasets (Combined) </a> </p>
 </section>

@@ -12,30 +12,36 @@
 </section>
 
 <section id="" class="pb-5 flex">
-    <div class="w-2/5 pr-5">
-        <p class="text-xl font-bold mb-3 py-1.5 w-min px-4 bg-ac-light-pink rounded-full"> Overview </p>
-        <p class="pb-3"> The Philippines, as an agricultural country, faces challenges regarding nutritional insecurity and economic disparity. Since the onset of the 2020 pandemic, food inflation has heavily impacted urban areas like the National Capital Region (NCR). While the common idea of inflation is frequently reported all over the news, there is a gap in understanding how this exact inflation affects markets and subsequently, how Filipinos choose to buy their food: do Filipinos struggle with weighing the price of nutrient-dense foods (e.g., fresh vegetables and fruits) versus calorie-dense staples (e.g., rice, rootcrops)? </p>
+    <div class="w-2/5 pr-10">
+        <p class="text-xl font-bold py-1.5 w-min px-4 bg-ac-light-pink rounded-full -rotate-3 -ml-4 -mb-3"> Overview </p>
+
+        <div class="bg-white/50 p-5 rounded-lg">
+            <p class="pb-3"> The Philippines, as an agricultural country, faces challenges regarding nutritional insecurity and economic disparity. Since the onset of the 2020 pandemic, food inflation has heavily impacted urban areas like the National Capital Region (NCR). While the common idea of inflation is frequently reported all over the news, there is a gap in understanding how this exact inflation affects markets and subsequently, how Filipinos choose to buy their food: do Filipinos struggle with weighing the price of nutrient-dense foods (e.g., fresh vegetables and fruits) versus calorie-dense staples (e.g., rice, rootcrops)? </p>
     
-        <div class="flex justify-center gap-x-5">
+            <div class="flex justify-center gap-x-5">
             <img src={Two} alt="Zero Hunger" class="w-40 h-40 rounded-xl"/>
             <img src={Ten} alt="Reduced Inequalities" class="w-40 h-40 rounded-xl"/>
+            </div> 
         </div>
+        
     </div>
 
     <div class="w-3/5">
-        <p class="text-xl font-bold mb-3 py-1.5 w-min px-4 bg-ac-light-green rounded-full"> Problem </p>
-        <p class="pb-5"> Nutrient-dense foods have become less affordable throughout the years; prices have gone up faster than wages, contributing to inflation inequality. This creates a heavier burden for low-income households, making healthy diets inaccessible. </p>
+        <p class="text-xl font-bold py-1.5 w-min px-4 bg-ac-light-green rounded-full -rotate-3 -ml-4 -mb-3"> Problem </p>
+        <p class="mb-5 bg-white/50 p-5 rounded-lg"> Nutrient-dense foods have become less affordable throughout the years; prices have gone up faster than wages, contributing to inflation inequality. This creates a heavier burden for low-income households, making healthy diets inaccessible. </p>
 
-        <p class="text-xl font-bold mb-3 py-1.5 w-min px-4 bg-ac-light-green rounded-full"> Solution </p>
-        <p class="pb-2"> This study aims to use data science to quantify the affordability of nutrient-dense foods throughout the years. In particular, we will compare the trends of food prices against the consumer price index of households in NCR, which refers to the average spendings of households on consumer goods, over time. </p>
-        <p> We will gather retail prices and Consumer Price Index (CPI) data, and then: </p>
-        <ul class="list-disc pl-8 pb-2">
-            <li> apply time-series analysis </li>
-            <li> calculate inflation over time </li>
-            <li> model affordability ratio </li>
-        </ul>
-        <p> The results of this study aim to raise awareness about food insecurity and help inform discussions on food assistance, nutrition programs, and other initiatives that aim to improve access to nutritious food. </p>
-    </div>
+        <p class="text-xl font-bold py-1.5 w-min px-4 bg-ac-light-green rounded-full -rotate-3 -ml-4 -mb-3"> Solution </p>
+        <div class="mb-5 bg-white/50 p-5 rounded-lg">
+            <p class="pb-2"> This study aims to use data science to quantify the affordability of nutrient-dense foods throughout the years. In particular, we will compare the trends of food prices against the consumer price index of households in NCR, which refers to the average spendings of households on consumer goods, over time. </p>
+            <p> We will gather retail prices and Consumer Price Index (CPI) data, and then: </p>
+            <ul class="list-disc pl-8 pb-2">
+                <li> apply time-series analysis </li>
+                <li> calculate inflation over time </li>
+                <li> model affordability ratio </li>
+            </ul>
+            <p> The results of this study aim to raise awareness about food insecurity and help inform discussions on food assistance, nutrition programs, and other initiatives that aim to improve access to nutritious food. </p>
+            </div>
+        </div>
 </section>
 
 <Divider />
